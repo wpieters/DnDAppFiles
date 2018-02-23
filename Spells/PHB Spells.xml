@@ -405,7 +405,7 @@
 		<range>Self</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Paladin</classes>
+		<classes>Paladin, Warlock (Hexblade)</classes>
 		<text>The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 hit points of fewer, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the tart reappears in the space it left or in the nearest unoccupied space if that space is occupied.</text>
 		<roll>5d10</roll>
 	</spell>
@@ -603,7 +603,7 @@
 		<range>Self</range>
 		<components>V, S</components>
 		<duration>1 minute</duration>
-		<classes>Artificer, Cleric (Trickery), Sorcerer, Warlock (Archfey), Wizard</classes>
+		<classes>Artificer, Cleric (Trickery), Sorcerer, Warlock (Archfey), Wizard, Warlock (Hexblade)</classes>
 		<text>Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of you next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.</text>
 		<text />
 		<text>While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creature that aren't there can't perceive you or interact with you, unless they have the ability to do so.</text>
@@ -617,7 +617,7 @@
 		<range>Self</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Artificer, Druid (Desert), Sorcerer, Wizard, Rogue (Arcane Trickster)</classes>
+		<classes>Artificer, Druid (Desert), Sorcerer, Wizard, Rogue (Arcane Trickster), Warlock (Hexblade)</classes>
 		<text>Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.</text>
 	</spell>
 	<spell>
@@ -628,7 +628,7 @@
 		<range>Self</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Paladin</classes>
+		<classes>Paladin, Warlock (Hexblade)</classes>
 		<text>The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it is invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.</text>
@@ -953,7 +953,7 @@
 		<range>Self (60-foot cone)</range>
 		<components>V, S, M (a small crystal or glass cone)</components>
 		<duration>Instantaneous</duration>
-		<classes>Druid (Arctic), Sorcerer, Wizard</classes>
+		<classes>Druid (Arctic), Sorcerer, Wizard, Warlock (Hexblade)</classes>
 		<text>A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
 		<text>A creature killed by this spell becomes a frozen statue until it thaws.</text>
@@ -1868,7 +1868,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 hour</duration>
-		<classes>Paladin</classes>
+		<classes>Paladin, Warlock (Hexblade)</classes>
 		<text>A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types - acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.</text>
@@ -3978,7 +3978,7 @@
 		<range>120 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Wizard, Rogue (Arcane Trickster)</classes>
+		<classes>Wizard, Rogue (Arcane Trickster), Warlock (Hexblade)</classes>
 		<text>You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.</text>
@@ -4743,7 +4743,7 @@
 		<range>Self</range>
 		<components>V, S</components>
 		<duration>1 round</duration>
-		<classes>Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
+		<classes>Sorcerer, Wizard, Fighter (Eldritch Knight), Warlock (Hexblade)</classes>
 		<text>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.</text>
 	</spell>
 	<spell>
@@ -5003,7 +5003,7 @@
 		<range>Self</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Paladin</classes>
+		<classes>Paladin, Warlock (Hexblade)</classes>
 		<text>The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom saving throw. On a failed save, it has disadvantage on attack rolls and ability checks, and can't take reactions, until the end of its next turn.</text>
 		<roll>4d6</roll>
 	</spell>
@@ -5788,7 +5788,7 @@
 		<range>Self</range>
 		<components>V, S, M</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Paladin</classes>
+		<classes>Paladin, Warlock (Hexblade)</classes>
 		<text>The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.</text>
 	</spell>
 	<spell>
