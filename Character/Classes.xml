@@ -1158,18 +1158,18 @@
         <!-- Xnathar's Guide to Everything-->
         <autolevel level="3">
             <feature optional="YES">
-                <name>Bard College: College of Glamour (XGtE)</name>
+                <name>Bard College: College of Glamour (XGE)</name>
                 <text>The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under tutelage of someone who dwelled their. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others. </text>
                 <text>  The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. The bards of this college are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, abusing their magic to turn their hosts into thralls. Heroic bards of this college instead use this power to gladden the downtrodden and undermine oppressors.</text>
             </feature>
             <feature optional="YES">
-                <name>College of Glamour: Mantle of Inspiration (XGtE)</name>
+                <name>College of Glamour: Mantle of Inspiration (XGE)</name>
                 <text>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. </text>
                 <text>  As a bonus action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 5 temporary hit points. When a target gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.</text>
                 <text>  The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.</text>
             </feature>
             <feature optional="YES">
-                <name>College of Glamour: Enthralling Performance (XGtE)</name>
+                <name>College of Glamour: Enthralling Performance (XGE)</name>
                 <text>Starting at 3rd level, you can charge your performance with seductive, fey magic. </text>
                 <text>  If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. </text>
                 <text>  If a target succeeds on its saveing throw, the target has no hint that you tried to charm it. </text>
@@ -1178,7 +1178,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>College of Glamour: Mantle of Majesty (XGtE)</name>
+                <name>College of Glamour: Mantle of Majesty (XGE)</name>
                 <text>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you can cast command, without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your concentration ends (as if you were concentrating on a spell). During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. </text>
                 <text>  Any creature charmed by you automatically fails its saving throw against the command you cast with this feature. </text>
                 <text>  Once you use this feature, you can't use it again until you finish a long rest.</text>
@@ -1186,7 +1186,7 @@
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>College of Glamour: Unbreakable Majesty (XGtE)</name>
+                <name>College of Glamour: Unbreakable Majesty (XGE)</name>
                 <text>At 14th level, your appearance permanently gains an otherworldly aspect that makes you look more fierce and lovely.</text>
                 <text>  In addition, as a bonus action, yo can assume a magically majestic presence for 1 minute or until you are incapacitated. For the duration ,whenever any createure tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw against your spell save DV. On a failed save, it can't attack you this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on thos turn, but it has disadvantage on any saving throw it makes against your spells on your next turn</text>
                 <text>  Once you assume this majestic presence, you can't do so again until you finish a short or long rest.</text>
@@ -10857,7 +10857,7 @@
         <!-- Xanathar's Guide to Everything Patrons and Pacts-->
         <autolevel level="1">
             <feature optional="YES">
-                <name>Otherworldly Patron: The Hexblade (XGtE)</name>
+                <name>Otherworldly Patron: The Hexblade (XGE)</name>
                 <text>You have made your pact with a mysteruous entity from the Shadowfell - a force that manidests in sentient magic weapons from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formes in the Shadowfell Others forgo such arms, content to weave the dark magic of that plane into their spellcasting. Because the The Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with the hexblade warlocks, are tools she uses to manipulate events in the Material Plane to her inscrutable ends.</text>
                 <text />
                 <text>Expanded Spell List: The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
@@ -10873,12 +10873,12 @@
                 <text>5th - banishing smite, cone of cold</text>
             </feature>
             <feature optional="YES">
-                <name>The Hexblade (XGtE): Hex Warrior</name>
+                <name>The Hexblade (XGE): Hex Warrior</name>
                 <text>At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.</text>
                 <text>The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.</text>
             </feature>
             <feature optional="YES">
-                <name>The Hexblade (XGtE): Hexblade's Curse</name>
+                <name>The Hexblade (XGE): Hexblade's Curse</name>
                 <text>Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are incapicitated. Until the curse ends, you gain the following benefits:</text>
                 <text>You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.</text>
                 <text>Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.</text>
@@ -10888,7 +10888,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>The Hexblade (XGtE): Accursed Specter</name>
+                <name>The Hexblade (XGE): Accursed Specter</name>
                 <text>Starting at 6th level, you can curse the sould of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a specter, the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).</text>
                 <text>   The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.</text>
                 <text>   Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.</text>
@@ -10896,38 +10896,38 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>The Hexblade (XGtE): Armor of Hexes</name>
+                <name>The Hexblade (XGE): Armor of Hexes</name>
                 <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade’s Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack misses you, regardless of its roll.</text>
             </feature>            
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>The Hexblade (XGtE): Master of Hexes</name>
+                <name>The Hexblade (XGE): Master of Hexes</name>
                 <text>Starting at 14th level, you can spread your Hexblade’s Curse from a slain creature to another creature. When that creature cursed by your Hexblade's Curese dies, you can apply the curse to a differnt creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.</text>
             </feature>
         </autolevel>
         <!-- Xanathar's Guide to Everything Eldritch Invocations-->
         <autolevel level="2">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -10935,7 +10935,7 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
@@ -10943,25 +10943,25 @@
         </autolevel>
         <autolevel level="5">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -10969,13 +10969,13 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Cloak of Flies (XGtE)</name>
+                <name>Eldritch Invocation: Cloak of Flies (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a bonus action, youc an surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.</text>
@@ -10983,26 +10983,26 @@
                 <text>   Once you use this invocation, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Eldritch Smite (XGtE)</name>
+                <name>Eldritch Invocation: Eldritch Smite (XGE)</name>
                 <text>Prerequisite: 5th level, Pact of the Blade feature</text>
                 <text />
                 <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Depths (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Depths (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</text>
                 <text>   You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Maddening Hex (XGtE)</name>
+                <name>Eldritch Invocation: Maddening Hex (XGE)</name>
                 <text>Prerequisite: 5th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Tomb of Levistus (XGtE)</name>
+                <name>Eldritch Invocation: Tomb of Levistus (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerablity to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</text>
@@ -11011,25 +11011,25 @@
         </autolevel>
         <autolevel level="7">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -11037,13 +11037,13 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Cloak of Flies (XGtE)</name>
+                <name>Eldritch Invocation: Cloak of Flies (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a bonus action, youc an surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.</text>
@@ -11051,46 +11051,46 @@
                 <text>   Once you use this invocation, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Eldritch Smite (XGtE)</name>
+                <name>Eldritch Invocation: Eldritch Smite (XGE)</name>
                 <text>Prerequisite: 5th level, Pact of the Blade feature</text>
                 <text />
                 <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Depths (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Depths (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</text>
                 <text>   You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Maddening Hex (XGtE)</name>
+                <name>Eldritch Invocation: Maddening Hex (XGE)</name>
                 <text>Prerequisite: 5th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Tomb of Levistus (XGtE)</name>
+                <name>Eldritch Invocation: Tomb of Levistus (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerablity to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</text>
                 <text>   Once you use this invocation, you can;t use it again until you finish a short or a long rest.</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Ghostly Gaze (XGtE)</name>
+                <name>Eldritch Invocation: Ghostly Gaze (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your conentration ends (as if you were concentrating on a spell). During that time, you percieve objects as ghostly, transparent images.</text>
                 <text>   Once you use this invocation, you can't use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Relentless Hex (XGtE)</name>
+                <name>Eldritch Invocation: Relentless Hex (XGE)</name>
                 <text>Prerequisite: 7th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Trickster's Escape (XGtE)</name>
+                <name>Eldritch Invocation: Trickster's Escape (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.</text>
@@ -11098,25 +11098,25 @@
         </autolevel>
         <autolevel level="9">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -11124,13 +11124,13 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Cloak of Flies (XGtE)</name>
+                <name>Eldritch Invocation: Cloak of Flies (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a bonus action, youc an surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.</text>
@@ -11138,46 +11138,46 @@
                 <text>   Once you use this invocation, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Eldritch Smite (XGtE)</name>
+                <name>Eldritch Invocation: Eldritch Smite (XGE)</name>
                 <text>Prerequisite: 5th level, Pact of the Blade feature</text>
                 <text />
                 <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Depths (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Depths (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</text>
                 <text>   You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Maddening Hex (XGtE)</name>
+                <name>Eldritch Invocation: Maddening Hex (XGE)</name>
                 <text>Prerequisite: 5th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Tomb of Levistus (XGtE)</name>
+                <name>Eldritch Invocation: Tomb of Levistus (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerablity to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</text>
                 <text>   Once you use this invocation, you can;t use it again until you finish a short or a long rest.</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Ghostly Gaze (XGtE)</name>
+                <name>Eldritch Invocation: Ghostly Gaze (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your conentration ends (as if you were concentrating on a spell). During that time, you percieve objects as ghostly, transparent images.</text>
                 <text>   Once you use this invocation, you can't use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Relentless Hex (XGtE)</name>
+                <name>Eldritch Invocation: Relentless Hex (XGE)</name>
                 <text>Prerequisite: 7th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Trickster's Escape (XGtE)</name>
+                <name>Eldritch Invocation: Trickster's Escape (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.</text>
@@ -11185,25 +11185,25 @@
         </autolevel>
         <autolevel level="12">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -11211,13 +11211,13 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Cloak of Flies (XGtE)</name>
+                <name>Eldritch Invocation: Cloak of Flies (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a bonus action, youc an surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.</text>
@@ -11225,46 +11225,46 @@
                 <text>   Once you use this invocation, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Eldritch Smite (XGtE)</name>
+                <name>Eldritch Invocation: Eldritch Smite (XGE)</name>
                 <text>Prerequisite: 5th level, Pact of the Blade feature</text>
                 <text />
                 <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Depths (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Depths (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</text>
                 <text>   You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Maddening Hex (XGtE)</name>
+                <name>Eldritch Invocation: Maddening Hex (XGE)</name>
                 <text>Prerequisite: 5th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Tomb of Levistus (XGtE)</name>
+                <name>Eldritch Invocation: Tomb of Levistus (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerablity to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</text>
                 <text>   Once you use this invocation, you can;t use it again until you finish a short or a long rest.</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Ghostly Gaze (XGtE)</name>
+                <name>Eldritch Invocation: Ghostly Gaze (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your conentration ends (as if you were concentrating on a spell). During that time, you percieve objects as ghostly, transparent images.</text>
                 <text>   Once you use this invocation, you can't use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Relentless Hex (XGtE)</name>
+                <name>Eldritch Invocation: Relentless Hex (XGE)</name>
                 <text>Prerequisite: 7th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Trickster's Escape (XGtE)</name>
+                <name>Eldritch Invocation: Trickster's Escape (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.</text>
@@ -11272,25 +11272,25 @@
         </autolevel>
         <autolevel level="15">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -11298,13 +11298,13 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Cloak of Flies (XGtE)</name>
+                <name>Eldritch Invocation: Cloak of Flies (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a bonus action, youc an surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.</text>
@@ -11312,52 +11312,52 @@
                 <text>   Once you use this invocation, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Eldritch Smite (XGtE)</name>
+                <name>Eldritch Invocation: Eldritch Smite (XGE)</name>
                 <text>Prerequisite: 5th level, Pact of the Blade feature</text>
                 <text />
                 <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Depths (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Depths (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</text>
                 <text>   You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Maddening Hex (XGtE)</name>
+                <name>Eldritch Invocation: Maddening Hex (XGE)</name>
                 <text>Prerequisite: 5th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Tomb of Levistus (XGtE)</name>
+                <name>Eldritch Invocation: Tomb of Levistus (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerablity to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</text>
                 <text>   Once you use this invocation, you can;t use it again until you finish a short or a long rest.</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Ghostly Gaze (XGtE)</name>
+                <name>Eldritch Invocation: Ghostly Gaze (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your conentration ends (as if you were concentrating on a spell). During that time, you percieve objects as ghostly, transparent images.</text>
                 <text>   Once you use this invocation, you can't use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Relentless Hex (XGtE)</name>
+                <name>Eldritch Invocation: Relentless Hex (XGE)</name>
                 <text>Prerequisite: 7th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Trickster's Escape (XGtE)</name>
+                <name>Eldritch Invocation: Trickster's Escape (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Shroud of Shadow (XGtE)</name>
+                <name>Eldritch Invocation: Shroud of Shadow (XGE)</name>
                 <text>Prerequisite: 15th level</text>
                 <text />
                 <text>You can cast invisibility at will, without expending a spell slot.</text>
@@ -11365,25 +11365,25 @@
         </autolevel>
         <autolevel level="18">
             <feature optional="YES">
-                <name>Eldritch Invocation: Aspect of the Moon (XGtE)</name>
+                <name>Eldritch Invocation: Aspect of the Moon (XGE)</name>
                 <text>Prerequisite: Pact of the Tome feature</text>
                 <text />
                 <text>You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Ever-Living Ones (XGE)</name>
                 <text>Prerequisite: Pact of the Chain feature</text>
                 <text />
                 <text>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice roled to determine the hit points you regain as having rolled their maximum value for you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Grasp of Hadar (XGtE)</name>
+                <name>Eldritch Invocation: Grasp of Hadar (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Improved Pact Weapon (XGtE)</name>
+                <name>Eldritch Invocation: Improved Pact Weapon (XGE)</name>
                 <text>Prerequisite: Pact of the Blade feature</text>
                 <text />
                 <text>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</text>
@@ -11391,13 +11391,13 @@
                 <text>   Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Lance of Lethargy (XGtE)</name>
+                <name>Eldritch Invocation: Lance of Lethargy (XGE)</name>
                 <text>Prerequisite: Eldritch Blast cantrip</text>
                 <text />
                 <text>One on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Cloak of Flies (XGtE)</name>
+                <name>Eldritch Invocation: Cloak of Flies (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a bonus action, youc an surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.</text>
@@ -11405,52 +11405,52 @@
                 <text>   Once you use this invocation, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Eldritch Smite (XGtE)</name>
+                <name>Eldritch Invocation: Eldritch Smite (XGE)</name>
                 <text>Prerequisite: 5th level, Pact of the Blade feature</text>
                 <text />
                 <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Gift of the Depths (XGtE)</name>
+                <name>Eldritch Invocation: Gift of the Depths (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</text>
                 <text>   You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Maddening Hex (XGtE)</name>
+                <name>Eldritch Invocation: Maddening Hex (XGE)</name>
                 <text>Prerequisite: 5th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Tomb of Levistus (XGtE)</name>
+                <name>Eldritch Invocation: Tomb of Levistus (XGE)</name>
                 <text>Prerequisite: 5th level</text>
                 <text />
                 <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerablity to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</text>
                 <text>   Once you use this invocation, you can;t use it again until you finish a short or a long rest.</text>                
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Ghostly Gaze (XGtE)</name>
+                <name>Eldritch Invocation: Ghostly Gaze (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your conentration ends (as if you were concentrating on a spell). During that time, you percieve objects as ghostly, transparent images.</text>
                 <text>   Once you use this invocation, you can't use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Relentless Hex (XGtE)</name>
+                <name>Eldritch Invocation: Relentless Hex (XGE)</name>
                 <text>Prerequisite: 7th level, hex spell or a warlock feature that curses</text>
                 <text />
                 <text>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Trickster's Escape (XGtE)</name>
+                <name>Eldritch Invocation: Trickster's Escape (XGE)</name>
                 <text>Prerequisite: 7th level</text>
                 <text />
                 <text>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Eldritch Invocation: Shroud of Shadow (XGtE)</name>
+                <name>Eldritch Invocation: Shroud of Shadow (XGE)</name>
                 <text>Prerequisite: 15th level</text>
                 <text />
                 <text>You can cast invisibility at will, without expending a spell slot.</text>

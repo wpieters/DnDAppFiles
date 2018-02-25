@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+	<spell>
+		<name>Abi-Dalzim's Horrid Wilting (XGE)</name>
+		<level>8</level>
+		<school>N</school>
+		<time>1 action</time>
+		<range>150 feet</range>
+		<components>V, S, M (a bit of sponge)</components>
+		<duration>Instantaneous</duration>
+		<classes>Sorcerer, Wizard</classes>
+		<text>You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.</text>
+		<text>  Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.</text>
+		<text />
+		<text>This spell can be found in the Xanathar's Guide to Everything</text>
+		<roll>12d8</roll>
+	</spell>
+	<spell>
+		<name>Bones of the Earth (XGE)</name>
+		<level>6</level>
+		<school>T</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>V, S</components>
+		<duration>Instantaneous</duration>
+		<classes>Druid</classes>
+		<text>You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius. The rubble lasts until cleared. Each 5-foot-diameter portion of the are requires at least 1 minute to clear by hand.</text>
+		<text />
+		<text>If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.</text>
+		<text />
+		<text>If a pillar is prevented from reaching its full height because of a cieling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained, and must either move off the pillar or fall off it.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.</text>
+		<text />
+		<text>This spell can be found in the Xanathar's Guide to Everything</text>
+		<roll>6d6</roll>
+	</spell>
+</compendium>
