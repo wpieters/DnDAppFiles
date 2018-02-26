@@ -35,4 +35,60 @@
 		<text>This spell can be found in the Xanathar's Guide to Everything</text>
 		<roll>6d6</roll>
 	</spell>
+	<spell>
+		<name>Catnap (XGE)</name>
+		<level>3</level>
+		<school>E</school>
+		<time>1 action</time>
+		<range>30 feet</range>
+		<components>S, M (a pinch of sand)</components>
+		<duration>10 minutes</duration>
+		<classes>Bard, Sorcerer, Wizard</classes>
+		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a slong rest.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.</text>
+		<text />
+		<text>This spell can be found in the Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
+		<name>Cause Fear (XGE)</name>
+		<level>1</level>
+		<school>N</school>
+		<time>1 action</time>
+		<range>60 feet</range>
+		<components>V</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Warlock, Wizard</classes>
+		<text>You awaken the sense of mortality in one creature you can see within range. A construct or an undead is ummune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creature must be within 30 feet of each other when you target them.</text>
+		<text />
+		<text>This spell can be found in the Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
+		<name>Ceremony (XGE)</name>
+		<level>1</level>
+		<school>A</school>
+		<ritual>YES</ritual>
+		<time>1 action</time>
+		<range>Touch</range>
+		<components>V, S, M (25 gp worth of powdered silver, which the spell consumes)</components>
+		<duration>Instantaneous</duration>
+		<classes>Cleric, Paladin</classes>
+		<text>You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.</text>
+		<text />
+		<text>Atonement. You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a successful check, you restore the target to its original alignment.</text>
+		<text />
+		<text>Bless Water. You touch one vial of water and cause it to become holy water.</text>
+		<text />
+		<text>Coming of Age. You touch one humanoid who is a young adult. For the next 24 hours, whenver the target makes an ability check, it can roll a d4 and add the number rolled to the abiity check. A creature can benefit from this rite only once.</text>
+		<text />
+		<text>Dedication. You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.</text>
+		<text />
+		<text>Funeral Rite. You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell.</text>
+		<text />
+		<text>Wedding. You touch adult humanoids willing to bonded together in marraige. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.</text>
+		<text />
+		<text>This spell can be found in the Xanathar's Guide to Everything</text>
+	</spell>
 </compendium>
