@@ -17664,7 +17664,7 @@
 		<wis>12</wis>
 		<cha>14</cha>
 		<skill>Deception +4, Insight +3, Persuasion +4, Stealth +5</skill>
-		<resist>cold, bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons</resist>
+		<resist>cold; bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons</resist>
 		<immune>fire, poison</immune>
 		<conditionImmune>poisoned</conditionImmune>
 		<senses>darkvision 120 ft.</senses>
@@ -24895,7 +24895,7 @@
 		<wis>10</wis>
 		<cha>10</cha>
 		<skill>Stealth +5</skill>
-		<resist>cold; fire; lightning; bludgeoning, piercing, and slashing from nonmagical weapons</resist>
+		<resist>cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons</resist>
 		<immune>poison</immune>
 		<conditionImmune>poisoned</conditionImmune>
 		<senses>darkvision 120 ft.</senses>
@@ -26238,8 +26238,7 @@
 		<action>
 			<name>Spear</name>
 			<text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.</text>
-			<attack>Spear 1H|7|2d6+4+1d6</attack>
-			<attack>Spear 2H|7|2d8+4+1d6</attack>
+			<attack>Spear|7|2d6+4+1d6</attack>
 		</action>
 		<action>
 			<name>Tail</name>

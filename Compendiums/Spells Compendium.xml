@@ -17,7 +17,22 @@
 		<roll>10d8</roll>
 	</spell>
 	<spell>
-		<name>Absorb Elements (EE)</name>
+		<name>Abi-Dalzim's Horrid Wilting (XGE)</name>
+		<level>8</level>
+		<school>N</school>
+		<time>1 action</time>
+		<range>150 feet</range>
+		<components>V, S, M (a bit of sponge)</components>
+		<duration>Instantaneous</duration>
+		<classes>Sorcerer, Wizard</classes>
+		<text>You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.</text>
+		<text>  Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>12d8</roll>
+	</spell>
+	<spell>
+		<name>Absorb Elements (EE, XGE)</name>
 		<level>1</level>
 		<school>A</school>
 		<time>1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage</time>
@@ -29,7 +44,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d6</roll>
 	</spell>
 	<spell>
@@ -50,7 +65,7 @@
 		<roll>4d6</roll>
 	</spell>
 	<spell>
-		<name>Aganazzar's Scorcher (EE)</name>
+		<name>Aganazzar's Scorcher (EE, XGE)</name>
 		<level>2</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -62,7 +77,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>3d8</roll>
 	</spell>
 	<spell>
@@ -492,7 +507,7 @@
 		<text>This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.</text>
 	</spell>
 	<spell>
-		<name>Beast Bond (EE)</name>
+		<name>Beast Bond (EE, XGE)</name>
 		<level>1</level>
 		<school>D</school>
 		<time>1 action</time>
@@ -502,7 +517,7 @@
 		<classes>Druid, Ranger</classes>
 		<text>You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Beast Sense</name>
@@ -694,6 +709,26 @@
 		<text>This spell can be found in the Elemental Evil Player's Companion</text>
 	</spell>
 	<spell>
+		<name>Bones of the Earth (XGE)</name>
+		<level>6</level>
+		<school>T</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>V, S</components>
+		<duration>Instantaneous</duration>
+		<classes>Druid</classes>
+		<text>You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius. The rubble lasts until cleared. Each 5-foot-diameter portion of the are requires at least 1 minute to clear by hand.</text>
+		<text />
+		<text>If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.</text>
+		<text />
+		<text>If a pillar is prevented from reaching its full height because of a cieling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained, and must either move off the pillar or fall off it.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>6d6</roll>
+	</spell>
+	<spell>
 		<name>Booming Blade (SCAG)</name>
 		<level>0</level>
 		<school>EV</school>
@@ -773,7 +808,7 @@
 		<text>Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.</text>
 	</spell>
 	<spell>
-		<name>Catapult (EE)</name>
+		<name>Catapult (EE, XGE)</name>
 		<level>1</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -785,9 +820,66 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>3d8</roll>
 	</spell>
+	<spell>
+		<name>Catnap (XGE)</name>
+		<level>3</level>
+		<school>E</school>
+		<time>1 action</time>
+		<range>30 feet</range>
+		<components>S, M (a pinch of sand)</components>
+		<duration>10 minutes</duration>
+		<classes>Bard, Sorcerer, Wizard</classes>
+		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a slong rest.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
+		<name>Cause Fear (XGE)</name>
+		<level>1</level>
+		<school>N</school>
+		<time>1 action</time>
+		<range>60 feet</range>
+		<components>V</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Warlock, Wizard</classes>
+		<text>You awaken the sense of mortality in one creature you can see within range. A construct or an undead is ummune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creature must be within 30 feet of each other when you target them.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
+		<name>Ceremony (XGE)</name>
+		<level>1</level>
+		<school>A</school>
+		<ritual>YES</ritual>
+		<time>1 action</time>
+		<range>Touch</range>
+		<components>V, S, M (25 gp worth of powdered silver, which the spell consumes)</components>
+		<duration>Instantaneous</duration>
+		<classes>Cleric, Paladin</classes>
+		<text>You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.</text>
+		<text />
+		<text>Atonement: You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a successful check, you restore the target to its original alignment.</text>
+		<text />
+		<text>Bless Water: You touch one vial of water and cause it to become holy water.</text>
+		<text />
+		<text>Coming of Age: You touch one humanoid who is a young adult. For the next 24 hours, whenver the target makes an ability check, it can roll a d4 and add the number rolled to the abiity check. A creature can benefit from this rite only once.</text>
+		<text />
+		<text>Dedication: You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.</text>
+		<text />
+		<text>Funeral Rite: You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell.</text>
+		<text />
+		<text>Wedding: You touch adult humanoids willing to bonded together in marraige. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+
 	<spell>
 		<name>Chain Lightning</name>
 		<level>6</level>
@@ -1308,7 +1400,7 @@
 		<text>A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.</text>
 	</spell>
 	<spell>
-		<name>Control Flames (EE)</name>
+		<name>Control Flames (EE, XGE)</name>
 		<level>0</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -1328,7 +1420,7 @@
 		<text />
 		<text>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Control Water</name>
@@ -1389,7 +1481,7 @@
 		<roll>1d4*10</roll>
 	</spell>
 	<spell>
-		<name>Control Winds (EE)</name>
+		<name>Control Winds (EE, XGE)</name>
 		<level>5</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -1405,7 +1497,7 @@
 		<text />
 		<text>Updraft: You cause a sustained updraft within the cube, rising upward from the cube's bottom edge. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Cordon of Arrows</name>
@@ -1450,6 +1542,27 @@
 		<text>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</text>
 		<text />
 		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<roll>1d8</roll>
+		<roll>2d8</roll>
+		<roll>3d8</roll>
+		<roll>4d8</roll>
+	</spell>
+	<spell>
+		<name>Create Bonfire (XGE)</name>
+		<level>0</level>
+		<school>C</school>
+		<time>1 action</time>
+		<range>60 feet</range>
+		<components>V, S</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<text>You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.</text>
+		<text />
+		<text>The bonfire ignites flammable objects in its area that aren't being worn or carried.</text>
+		<text />
+		<text>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 		<roll>1d8</roll>
 		<roll>2d8</roll>
 		<roll>3d8</roll>
@@ -1987,7 +2100,7 @@
 		<text>• You instantly light or snuff out a candle, a torch, or a small campfire.</text>
 	</spell>
 	<spell>
-		<name>Dust Devil (EE)</name>
+		<name>Dust Devil (EE, XGE)</name>
 		<level>2</level>
 		<school>C</school>
 		<time>1 action</time>
@@ -2003,7 +2116,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d8</roll>
 	</spell>
 	<spell>
@@ -2023,7 +2136,7 @@
 		<roll>1d6</roll>
 	</spell>
 	<spell>
-		<name>Earthbind (EE)</name>
+		<name>Earthbind (EE, XGE)</name>
 		<level>2</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -2033,7 +2146,7 @@
 		<classes>Druid, Sorcerer, Warlock, Wizard</classes>
 		<text>Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Earthquake</name>
@@ -2076,7 +2189,7 @@
 		<roll>1d10+CHA</roll>
 	</spell>
 	<spell>
-		<name>Elemental Bane (EE)</name>
+		<name>Elemental Bane (EE, XGE)</name>
 		<level>4</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -2088,7 +2201,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>2d6</roll>
 	</spell>
 	<spell>
@@ -2190,7 +2303,7 @@
 		<text>You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.</text>
 	</spell>
 	<spell>
-		<name>Erupting Earth (EE)</name>
+		<name>Erupting Earth (EE, XGE)</name>
 		<level>3</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -2202,7 +2315,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for each slot level above 2nd.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>3d12</roll>
 	</spell>
 	<spell>
@@ -2514,7 +2627,7 @@
 		<roll>8d6</roll>
 	</spell>
 	<spell>
-		<name>Flame Arrows (EE)</name>
+		<name>Flame Arrows (EE, XGE)</name>
 		<level>3</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -2526,7 +2639,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d6</roll>
 	</spell>
 	<spell>
@@ -2701,7 +2814,7 @@
 		<text>For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it.</text>
 	</spell>
 	<spell>
-		<name>Frostbite (EE)</name>
+		<name>Frostbite (EE, XGE)</name>
 		<level>0</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -2713,7 +2826,7 @@
 		<text />
 		<text>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d6</roll>
 		<roll>2d6</roll>
 		<roll>3d6</roll>
@@ -3012,7 +3125,7 @@
 		<roll>4d6</roll>
 	</spell>
 	<spell>
-		<name>Gust (EE)</name>
+		<name>Gust (EE, XGE)</name>
 		<level>0</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -3028,7 +3141,7 @@
 		<text />
 		<text>• You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Gust of Wind</name>
@@ -3314,7 +3427,7 @@
 		<text>The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.</text>
 	</spell>
 	<spell>
-		<name>Ice Knife (EE)</name>
+		<name>Ice Knife (EE, XGE)</name>
 		<level>1</level>
 		<school>C</school>
 		<time>1 action</time>
@@ -3326,7 +3439,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d20+SPELL+PROF</roll>
 		<roll>1d10</roll>
 	</spell>
@@ -3394,6 +3507,23 @@
 		<text>This spell can be found in the Elemental Evil Player's Companion</text>
 		<roll>7d6</roll>
 		<roll>3d6</roll>
+	</spell>
+	<spell>
+		<name>Immolation (XGE)</name>
+		<level>5</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>90 feet</range>
+		<components>V</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Sorcerer, Wizard</classes>
+		<text>Flames wreathe one creature you can see within range. The target must make a Dexterity saving throw. It takes 8d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The burning target sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of each of its turns, the target repeats the saving throw. It takes 4d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished through nonmagical means.</text>
+		<text />
+		<text>If damage from this spell reduces a target to 0 hit points, the target is turned to ash.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>8d6</roll>
+		<roll>4d6</roll>
 	</spell>
 	<spell>
 		<name>Imprisonment</name>
@@ -3482,7 +3612,7 @@
 		<roll>4d10</roll>
 	</spell>
 	<spell>
-		<name>Investiture of Flame (EE)</name>
+		<name>Investiture of Flame (EE, XGE)</name>
 		<level>6</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -3498,11 +3628,12 @@
 		<text />
 		<text>• You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d10</roll>
+		<roll>4d8</roll>
 	</spell>
 	<spell>
-		<name>Investiture of Ice (EE)</name>
+		<name>Investiture of Ice (EE, XGE)</name>
 		<level>6</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -3520,10 +3651,11 @@
 		<text />
 		<text>• You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
+		<roll>4d8</roll>
 	</spell>
 	<spell>
-		<name>Investiture of Stone (EE)</name>
+		<name>Investiture of Stone (EE, XGE)</name>
 		<level>6</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -3539,10 +3671,10 @@
 		<text />
 		<text>• You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
-		<name>Investiture of Wind (EE)</name>
+		<name>Investiture of Wind (EE, XGE)</name>
 		<level>6</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -3558,7 +3690,7 @@
 		<text />
 		<text>• You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>2d10</roll>
 	</spell>
 	<spell>
@@ -3792,7 +3924,7 @@
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</text>
 	</spell>
 	<spell>
-		<name>Maelstrom (EE)</name>
+		<name>Maelstrom (EE, XGE)</name>
 		<level>5</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -3802,7 +3934,7 @@
 		<classes>Druid</classes>
 		<text>A mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>6d6</roll>
 	</spell>
 	<spell>
@@ -3909,7 +4041,7 @@
 		<text>The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.</text>
 	</spell>
 	<spell>
-		<name>Magic Stone (EE)</name>
+		<name>Magic Stone (EE, XGE)</name>
 		<level>0</level>
 		<school>T</school>
 		<time>1 bonus action</time>
@@ -3921,7 +4053,7 @@
 		<text />
 		<text>If you cast this spell again, the spell ends early on any pebbles still affected by it.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d20+SPELL+PROF</roll>
 		<roll>1d6+SPELL</roll>
 	</spell>
@@ -4014,7 +4146,7 @@
 		<text>At Higher Levels: When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.</text>
 	</spell>
 	<spell>
-		<name>Maximilian's Earthen Grasp (EE)</name>
+		<name>Maximilian's Earthen Grasp (EE, XGE)</name>
 		<level>2</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -4030,7 +4162,7 @@
 		<text />
 		<text>As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>2d6</roll>
 	</spell>
 	<spell>
@@ -4082,7 +4214,7 @@
 		<roll>2d4</roll>
 	</spell>
 	<spell>
-		<name>Melf's Minute Meteors (EE)</name>
+		<name>Melf's Minute Meteors (EE, XGE)</name>
 		<level>3</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -4094,7 +4226,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>2d6</roll>
 	</spell>
 	<spell>
@@ -4249,7 +4381,7 @@
 		<text>At Higher Levels: If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).</text>
 	</spell>
 	<spell>
-		<name>Mold Earth (EE)</name>
+		<name>Mold Earth (EE, XGE)</name>
 		<level>0</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -4267,7 +4399,7 @@
 		<text />
 		<text>If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Moonbeam</name>
@@ -4712,7 +4844,7 @@
 		<text>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</text>
 	</spell>
 	<spell>
-		<name>Primordial Ward (EE)</name>
+		<name>Primordial Ward (EE, XGE)</name>
 		<level>6</level>
 		<school>A</school>
 		<time>1 action</time>
@@ -4724,7 +4856,7 @@
 		<text />
 		<text>When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Prismatic Spray</name>
@@ -4891,7 +5023,7 @@
 		<text>All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.</text>
 	</spell>
 	<spell>
-		<name>Pyrotechnics (EE)</name>
+		<name>Pyrotechnics (EE, XGE)</name>
 		<level>2</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -4905,7 +5037,7 @@
 		<text />
 		<text>Smoke: Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Raise Dead</name>
@@ -5266,7 +5398,7 @@
 		<text>You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include after 1,000 years or when the tarrasque awakes. This spells also ends if the target takes any damage.</text>
 	</spell>
 	<spell>
-		<name>Shape Water (EE)</name>
+		<name>Shape Water (EE, XGE)</name>
 		<level>0</level>
 		<school>T</school>
 		<time>1 action</time>
@@ -5286,7 +5418,7 @@
 		<text />
 		<text>If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Shapechange</name>
@@ -5420,7 +5552,7 @@
 		<text>If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.</text>
 	</spell>
 	<spell>
-		<name>Skywrite (EE)</name>
+		<name>Skywrite (EE, XGE)</name>
 		<level>2</level>
 		<school>T</school>
 		<ritual>YES</ritual>
@@ -5431,7 +5563,7 @@
 		<classes>Bard, Druid, Wizard</classes>
 		<text>You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Sleep</name>
@@ -5484,7 +5616,7 @@
 		<text>A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.</text>
 	</spell>
 	<spell>
-		<name>Snilloc's Snowball Swarm (EE)</name>
+		<name>Snilloc's Snowball Swarm (EE, XGE)</name>
 		<level>2</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -5496,7 +5628,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>3d6</roll>
 	</spell>
 	<spell>
@@ -5664,7 +5796,7 @@
 		<text>This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.</text>
 	</spell>
 	<spell>
-		<name>Storm Sphere (EE)</name>
+		<name>Storm Sphere (EE, XGE)</name>
 		<level>4</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -5680,7 +5812,7 @@
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the damage increases for each of its effects by 1d6 for each slot level above 4th</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d20+SPELL+PROF</roll>
 		<roll>2d6</roll>
 		<roll>4d6</roll>
@@ -5980,7 +6112,7 @@
 		<roll>4d6</roll>
 	</spell>
 	<spell>
-		<name>Thunderclap (EE)</name>
+		<name>Thunderclap (EE, XGE)</name>
 		<level>0</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -5992,7 +6124,7 @@
 		<text />
 		<text>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>1d6</roll>
 		<roll>2d6</roll>
 		<roll>3d6</roll>
@@ -6027,7 +6159,7 @@
 		<roll>2d8</roll>
 	</spell>
 	<spell>
-		<name>Tidal Wave (EE)</name>
+		<name>Tidal Wave (EE, XGE)</name>
 		<level>3</level>
 		<school>C</school>
 		<time>1 action</time>
@@ -6037,7 +6169,7 @@
 		<classes>Druid, Wizard</classes>
 		<text>You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failure, a creature takes 4d8 bludgeoning damage and is knocked prone. On a success, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>4d8</roll>
 	</spell>
 	<spell>
@@ -6085,6 +6217,28 @@
 		<text>Transmute Mud to Rock: Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a failed save, a creature becomes restrained by the rock. The restrained creature can use an action to try to break free by succeeding on a Strength check (DC 20) or by dealing 25 damage to the rock around it. On a successful save, a creature is shunted safely to the surface to an unoccupied space.</text>
 		<text />
 		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<roll>4d8</roll>
+	</spell>
+	<spell>
+		<name>Transmute Rock (XGE)</name>
+		<level>5</level>
+		<school>T</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>V, S, M (clay and water)</components>
+		<duration>Instantaneous</duration>
+		<classes>Druid, Wizard</classes>
+		<text>You choose an area of stone or mud that you can see that fits within a 40-foot cube and that is within range, and choose one of the following effects.</text>
+		<text />
+		<text>Transmute Rock to Mud: Nonmagical rock of any sort in the area becomes an equal volume of thick and flowing mud that remains for the spell's duration.</text>
+		<text />
+		<text>If you cast the spell on an area of ground, it becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make this save the first time it enters the area on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud.</text>
+		<text />
+		<text>If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.</text>
+		<text />
+		<text>Transmute Mud to Rock: Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a successful save, a creature is shunted safely to the surface to an unoccupied space. On a failed save, a creature becomes restrained by the rock. The restrained creature, or another creature within reach, can use an action to try to break free by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and is immune to poison and psychic damage.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 		<roll>4d8</roll>
 	</spell>
 	<spell>
@@ -6247,7 +6401,7 @@
 		<roll>4d4</roll>
 	</spell>
 	<spell>
-		<name>Vitriolic Sphere (EE)</name>
+		<name>Vitriolic Sphere (EE, XGE)</name>
 		<level>4</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -6255,11 +6409,11 @@
 		<components>V, S, M (a drop of giant slug bile)</components>
 		<duration>Instantaneous</duration>
 		<classes>Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
-		<text>You point at a place within range, and a glowing 1-foot ball of emerald acid streaks there and explodes in a 20-foot radius. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 10d4 acid damage and 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.</text>
+		<text>You point at a place within range, and a glowing 1-foot ball of emerald acid streaks there and explodes in a 20-foot radius sphere. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 10d4 acid damage and 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 		<roll>10d4</roll>
 		<roll>5d4</roll>
 	</spell>
@@ -6314,7 +6468,7 @@
 		<roll>5d6</roll>
 	</spell>
 	<spell>
-		<name>Wall of Sand (EE)</name>
+		<name>Wall of Sand (EE, XGE)</name>
 		<level>3</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -6324,7 +6478,7 @@
 		<classes>Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You conjure up a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall's space and must spend 3 feet of movement for every 1 foot it moves there.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Wall of Stone</name>
@@ -6366,7 +6520,7 @@
 		<roll>7d8</roll>
 	</spell>
 	<spell>
-		<name>Wall of Water (EE)</name>
+		<name>Wall of Water (EE, XGE)</name>
 		<level>3</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -6378,7 +6532,7 @@
 		<text />
 		<text>Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall's water doesn't fill it.</text>
 		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Warding Bond</name>
@@ -6394,7 +6548,7 @@
 		<text>The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.</text>
 	</spell>
 	<spell>
-		<name>Warding Wind (EE)</name>
+		<name>Warding Wind (EE, XGE)</name>
 		<level>2</level>
 		<school>EV</school>
 		<time>1 action</time>
@@ -6410,13 +6564,13 @@
 		<text />
 		<text>• It extinguishes unprotected flames in its area that are torch-sized or smaller.</text>
 		<text />
+		<text>• It hedges out vapor, gas, and fog that can be dispersed by strong wind.</text>
+		<text />
 		<text>• The area is difficult terrain for creatures other than you.</text>
 		<text />
 		<text>• The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.</text>
 		<text />
-		<text>• It hedges out vapor, gas, and fog that can be dispersed by strong wind.</text>
-		<text />
-		<text>This spell can be found in the Elemental Evil Player's Companion</text>
+		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Water Breathing</name>
@@ -6466,6 +6620,27 @@
 		<text>This spell can be found in the Elemental Evil Player's Companion</text>
 	</spell>
 	<spell>
+		<name>Watery Sphere (XGE)</name>
+		<level>4</level>
+		<school>C</school>
+		<time>1 action</time>
+		<range>90 feet</range>
+		<components>V, S, M (a droplet of water)</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Druid, Sorcerer, Wizard</classes>
+		<text>You conjure up a sphere of water with a 5-foot radius on a point you can see within range. The sphere can hover in the air, but no more than 10 feet off the ground. The sphere remains for the spell's duration.</text>
+		<text />
+		<text>Any creature in the sphere's space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space outside it. A Huge or larger creature succeeds on the saving throw automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the saving throw, ending the effect on itself on a success.</text>
+		<text />
+		<text>The sphere can restrain as many as four Medium or smaller creatures or one Large creature. If the sphere restrains a creature in excess of these numbers, a random creature that was already restrained by the sphere falls out of it and lands prone in a space within 5 feet of it.</text>
+		<text />
+		<text>As an action, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, cliff, or other drop, it safely descends until it is hovering 10 feet over ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the saving throw, but no more than once per turn.</text>
+		<text />
+		<text>When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+<spell>
 		<name>Web</name>
 		<level>2</level>
 		<school>C</school>
@@ -6515,7 +6690,6 @@
 		<text>This spell can be found in the Elemental Evil Player's Companion</text>
 		<roll>10d6</roll>
 		<roll>3d6*10</roll>
-		<roll>1d8</roll>
 	</spell>
 <spell>
 		<name>Wind Walk</name>
