@@ -8,7 +8,7 @@
 		<range>150 feet</range>
 		<components>V, S, M (a bit of sponge)</components>
 		<duration>Instantaneous</duration>
-		<classes>Sorcerer, Wizard</classes>
+		<classes>Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.</text>
 		<text>  Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.</text>
 		<text />
@@ -43,7 +43,7 @@
 		<range>30 feet</range>
 		<components>S, M (a pinch of sand)</components>
 		<duration>10 minutes</duration>
-		<classes>Bard, Sorcerer, Wizard</classes>
+		<classes>Bard, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a slong rest.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.</text>
@@ -58,7 +58,7 @@
 		<range>60 feet</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Warlock, Wizard</classes>
+		<classes>Warlock, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You awaken the sense of mortality in one creature you can see within range. A construct or an undead is ummune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creature must be within 30 feet of each other when you target them.</text>
@@ -66,7 +66,7 @@
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
-		<name>Ceremony (XGE)</name>
+		<name>Chaos Bolt (XGE)</name>
 		<level>1</level>
 		<school>A</school>
 		<ritual>YES</ritual>
@@ -90,6 +90,44 @@
 		<text>Wedding: You touch adult humanoids willing to bonded together in marraige. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.</text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
+		<name>Chaos Bolt (XGE)</name>
+		<level>1</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>V, S</components>
+		<duration>Instantaneous</duration>
+		<classes>Sorcerer</classes>
+		<text>You hurl an undulating, warbling mass of chatoic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose on of the d8s. The number rolled on that die determines the attack's damage type, as shown below.</text>
+		<text />
+		<text>1-Acid.</text>
+		<text />
+		<text>2-Cold.</text>
+		<text />
+		<text>3-Fire.</text>
+		<text />
+		<text>4-Force.</text>
+		<text />
+		<text>5-Lightning.</text>
+		<text />
+		<text>6-Poison.</text>
+		<text />
+		<text>7-Psychic.</text>
+		<text />
+		<text>8-Thunder.</text>
+		<text />
+		<text>If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.</text>
+		<text />
+		<text>  A creature can be targeted only once by each casting of this spell.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>d20+SPELL+PROF</roll>
+		<roll>2d8+1d6</roll>
+		<roll>1d6</roll>
 	</spell>
 
 	<spell>
@@ -121,7 +159,7 @@
 		<range>90 feet</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Sorcerer, Wizard</classes>
+		<classes>Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>Flames wreathe one creature you can see within range. The target must make a Dexterity saving throw. It takes 8d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The burning target sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of each of its turns, the target repeats the saving throw. It takes 4d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished through nonmagical means.</text>
 		<text />
 		<text>If damage from this spell reduces a target to 0 hit points, the target is turned to ash.</text>
@@ -138,7 +176,7 @@
 		<range>120 feet</range>
 		<components>V, S, M (clay and water)</components>
 		<duration>Instantaneous</duration>
-		<classes>Druid, Wizard</classes>
+		<classes>Druid, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You choose an area of stone or mud that you can see that fits within a 40-foot cube and that is within range, and choose one of the following effects.</text>
 		<text />
 		<text>Transmute Rock to Mud: Nonmagical rock of any sort in the area becomes an equal volume of thick and flowing mud that remains for the spell's duration.</text>
@@ -160,7 +198,7 @@
 		<range>90 feet</range>
 		<components>V, S, M (a droplet of water)</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Druid, Sorcerer, Wizard</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You conjure up a sphere of water with a 5-foot radius on a point you can see within range. The sphere can hover in the air, but no more than 10 feet off the ground. The sphere remains for the spell's duration.</text>
 		<text />
 		<text>Any creature in the sphere's space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space outside it. A Huge or larger creature succeeds on the saving throw automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the saving throw, ending the effect on itself on a success.</text>
