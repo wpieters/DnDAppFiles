@@ -675,4 +675,24 @@
 		<text />
 		<text>Source: Player's Handbook, page 170 and 6/10/2015 errata</text>
 	</feat>
+	<feat>
+		<name>Grey Warden</name>
+		<text>The Grey Wardens are an order of warriors of exceptional ability dedicated to fighting darkspawn throughout Thedas. They are headquartered in the very place of their founding, the Weisshaupt Fortress in the Anderfels, but maintain a presence in most other nations as well.</text>
+		<text />
+		<text>If you become a Grey Warden, it will be a major event in the game. You will play through your training period and the Joining. If you make it and become a Grey Warden, you gain this feat, and the following benefits:</text>
+		<text />
+		<text>• Increase one of your Ability Scores by 1, to a maximum of 20.</text>
+		<text />
+		<text>• You have advantage on saving throws against poison, and you have resistance to poison damage.</text>
+		<text />
+		<text>• You are immune to the Taint. You cannot be turned into a ghoul by Darkspawn blood.</text>
+		<text />
+		<text>• You can detect darkspawn up to a number of feet equal 10 x your level by concentrating for 1 minute. You can make a Wisdom (Survival) check to find out more information, such as their rough numbers or even their types.</text>
+		<text />
+		<text>• All darkspawn within a number of feet equal 10 x your level have advantage on Wisdom (Perception) checks made against you.</text>
+		<text />
+		<text>• Plagued by Nightmares: After the joining, new Grey Wardens typically suffer from nightmares or prophetic dreams. Any time you try and take a long rest during a Blight, roll a d20. On a 1, you gain no benefit from the rest and suffer a level of exhaustion. On a 2, you gain no benefit from the rest, but do not suffer exhaustion. The DM may increase the chance of these dreams occurring if the Grey Warden is in close proximity to the Archdemon when it tries to take a long rest.</text>
+		<text />
+		<text>Source: Homebrew</text>
+	</feat>
 </compendium>
