@@ -129,6 +129,22 @@
 		<roll>2d8+1d6</roll>
 		<roll>1d6</roll>
 	</spell>
+	<spell>
+		<name>Charm Monster (XGE)</name>
+		<level>4</level>
+		<school>EN</school>
+		<time>1 action</time>
+		<range>30 feet</range>
+		<components>V, S</components>
+		<duration>1 hour</duration>
+		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight)</classes>
+		<text></text>
+		<text />
+		<text>At Higher Levels: </text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll></roll>
+	</spell>
 
 	<spell>
 		<name>Create Bonfire (XGE)</name>
