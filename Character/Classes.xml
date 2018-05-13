@@ -874,7 +874,9 @@
             <feature optional="YES">
                 <name>Primal Path: Path of the Ancestral Guardian (XGE)</name>
                 <text>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</text>
-                <text>  Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.</text>                
+                <text>  Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.</text> 
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 9</text>
             </feature>
             <feature optional="YES">
                 <name>Path of the Ancestral Guardian (XGE): Ancestral Protectors</name>
@@ -883,7 +885,9 @@
             <feature optional="YES">
                 <name>Primal Path: Path of the Storm Herald (XGE)</name>
                 <text>All barbarians harbor a fury within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a barbarian ofthis path taps into the forces of nature to create powerful magical effects.</text>
-                <text>  Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect nature. Other storm heralds hone their craft in lodges in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts.</text>                
+                <text>  Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect nature. Other storm heralds hone their craft in lodges in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 10</text>            
             </feature>
             <feature optional="YES">
                 <name>Path of the Storm Herald (XGE): Storm Aura</name>
@@ -902,7 +906,9 @@
             <feature optional="YES">
                 <name>Primal Path: Path of the Zealot (XGE)</name>
                 <text>Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots — warriors who channel their rage into powerful displays of divine power.</text>
-                <text>  A variety of gods across the worlds of D&amp;D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.</text>                
+                <text>  A variety of gods across the worlds of D&amp;D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.</text>   
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 11</text>             
             </feature>
             <feature optional="YES">
                 <name>Path of the Zealot (XGE): Divine Fury</name>
@@ -1264,6 +1270,8 @@
                 <name>Bard College: College of Glamour (XGE)</name>
                 <text>The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under tutelage of someone who dwelled their. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others. </text>
                 <text>  The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. The bards of this college are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, abusing their magic to turn their hosts into thralls. Heroic bards of this college instead use this power to gladden the downtrodden and undermine oppressors.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 14</text>
             </feature>
             <feature optional="YES">
                 <name>College of Glamour (XGE): Mantle of Inspiration</name>
@@ -1284,6 +1292,8 @@
                 <text>Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade’s talent for the excitement it adds to a performance, but few entertainers fully trust them.</text>
                 <text>Blades who abandon lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most performer troupes. With their weapon skills as their greatest asset, these blades either take up work as enforcers for thieves’ guilds or strike out on their own as adventurers.</text>
                 <text />
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 15</text>
             </feature>            
             <feature optional="YES">
                 <name>College of Swords (XGE): Bonus Proficiencies</name>
@@ -1314,7 +1324,8 @@
                 <name>Bard College: College of Whispers (XGE)</name>
                 <text>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like any other bard, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats. </text>
                 <text>  Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards' reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.</text>
-                <text />
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 16</text>
             </feature>
             <feature optional="YES">
                 <name>College of Whispers (XGE): Psychic Blades</name>
@@ -2124,7 +2135,8 @@
                 <text>5th - elemental weapon, protection from energy </text>
                 <text>7th - fabricate, wall of fire </text>
                 <text>9th - animate objects, creation</text>
-                <text />
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 18</text>
             </feature>
             <feature optional="YES">
                 <name>Forge Domain (XGE): Bonus Proficiency</name>
@@ -2145,7 +2157,8 @@
                 <text>5th - revivify, vampiric touch</text>
                 <text>7th - blight, death ward</text>
                 <text>9th - antilife shell, raise dead</text>
-                <text />
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 19</text>
             </feature>
             <feature optional="YES">
                 <name>Grave Domain (XGE): Circle of Mortality</name>
@@ -2584,6 +2597,8 @@
             <feature optional="YES">
                 <name>Druid Circle: Circle of Dreams (XGE)</name>
                 <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 22</text>
             </feature>
             <feature optional="YES">
                 <name>Circle of Dreams (XGE): Balm of the Summer Court</name>
@@ -2596,6 +2611,8 @@
                 <text>Druids of the Circle of the Shepherd commune with the spirits of nature, especially the spirits of beasts and the fey, and call to those spirits for aid. These druids recognize that all living things play a role in the natural world, yet they focus on protecting animals and fey creatures that have difficulty defending themselves. Shepherds, as they are known, see such creatures as their charges. They ward off monsters that threaten them, rebuke hunters who kill more prey than necessary, and prevent civilization from encroaching on rare animal habitats and on sites sacred to the fey. Many of these druids are happiest far from cities and towns, content to spend their days in the company of animals and the fey creatures of the wilds.</text>
                 <text />
                 <text>Members of this circle become adventurers to oppose forces that threaten their charges or to seek knowledge and power that will help them safeguard their charges better. Wherever these druids go, the spirits of the wilderness are with them.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 23</text>
             </feature>
             <feature optional="YES">
                 <name>Circle of the Shepherd (XGE): Speech of the Woods</name>
@@ -3235,6 +3252,8 @@
             <feature optional="YES">
                 <name>Martial Archetype: Arcane Archer (XGE)</name>
                 <text>An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic—infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 28</text>
             </feature>
             <feature optional="YES">
                 <name>Arcane Archer (XGE): Arcane Archer Lore</name>
@@ -3250,6 +3269,8 @@
             <feature optional="YES">
                 <name>Martial Archetype: Cavalier (XGE)</name>
                 <text>The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfor to embark on glorious adventure.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 30</text>
             </feature>
             <feature optional="YES">
                 <name>Cavalier (XGE): Bonus Proficiencies</name>
@@ -3270,6 +3291,8 @@
             <feature optional="YES">
                 <name>Martial Archetype: Samurai (XGE)</name>
                 <text>The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai’s resolve is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 31</text>
             </feature>
             <feature optional="YES">
                 <name>Samurai (XGE): Bonus Proficiencies</name>
@@ -4426,6 +4449,8 @@
                 <name>Monastic Tradition: Way of the Drunken Master (XGE)</name>
                 <text>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.</text>
                 <text>  A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 33</text>
             </feature>
             <feature>
                 <name>Way of the Drunken Master (XGE): Bonus Proficiencies</name>
@@ -4439,6 +4464,8 @@
                 <name>Monastic Tradition: Way of the Kensei (XGE)</name>
                 <text>Monks of the Way of the Kensei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.</text>
                 <text>  A kensei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 34</text>
             </feature>
             <feature>
                 <name>Way of the Kensei (XGE): Path of the Kensei (2 weapons)</name>
@@ -4458,6 +4485,8 @@
                 <text>  You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</text>
                 <text>  When you take the Attack action on your turn and use this special attack as part of it, you can. spend 1 ki point to make the special attack twice as a bonus action.</text>
                 <text>  When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 35</text>
             </feature>
         </autolevel>
         <autolevel level="6">
@@ -7026,6 +7055,8 @@
                 <text>9th - bestow curse, fear </text>
                 <text>13th - dominate beast, stoneskin </text>
                 <text>17th - cloudkill, dominate person</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 37</text>
             </feature>
             <feature optional="YES">
                 <name>Oath of Conquest (XGE) Channel Divinity: Conquering Presence (Oath of Conquest)</name>
@@ -7059,6 +7090,8 @@
                 <text>9th - counterspell, hypnotic pattern </text>
                 <text>13th - Otiluke's resilient sphere, stoneskin </text>
                 <text>17th - hold monster, wall of force</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 38</text>
             </feature>
         </autolevel>
         <autolevel level="7">
@@ -7563,6 +7596,8 @@
             <feature optional="YES">
                 <name>Ranger Archetype: Gloom Stalker (XGE)</name>
                 <text>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place Where evil lurks in the shadows.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 41</text>
             </feature>
             <feature optional="YES">
                 <name>Gloom Stalker (XGE): Gloom Stalker Magic</name>
@@ -7591,6 +7626,8 @@
             <feature optional="YES">
                 <name>Ranger Archetype: Horizon Walker (XGE)</name>
                 <text>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 42</text>
             </feature>
             <feature optional="YES">
                 <name>Horizon Walker (XGE): Horizon Walker Magic</name>
@@ -7620,6 +7657,8 @@
             <feature optional="YES">
                 <name>Ranger Archetype: Monster Slayer (XGE)</name>
                 <text>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, Slayers are experts at unearthing and defeating mighty, mystical foes.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 43</text>
             </feature>
             <feature optional="YES">
                 <name>Monster Slayer (XGE): Monster Slayer Magic</name>
@@ -8675,6 +8714,67 @@
                 <name>Stroke of Luck</name>
                 <text>At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.</text>
                 <text>  Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+            </feature>
+        </autolevel>
+        <!-- Xanathar's Guide to Everything -->
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Roguish Archetype: Inquisitive (XGE)</name>
+                <text>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for details, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 45</text>
+            </feature>
+            <feature optional="YES">
+                <name>Inquisitive (XGE): Ear for Deceit</name>
+                <text>When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.</text>
+            </feature>
+            <feature optional="YES">
+                <name>Inquisitive (XGE): Eye for Detail</name>
+                <text>Starting at 3rd level, you can use the bonus action to make a Wisdom (Perception) check to spot a hidden creature or object, to make an Intelligence (Investigation) check to uncover and decipher clues.</text>
+            </feature>
+            <feature optional="YES">
+                <name>Inquisitive (XGE): Insightful Fighting</name>
+                <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn’t incapacitated, contested by the target’s Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don’t have advantage on the attack roll, but not if you have disadvantage on it. </text>
+                <text>  This benefit lasts for 1 minute or until you successfully use Insightful Fighting against a different target.</text>
+            </feature>
+            <feature optional="YES">
+                <name>Roguish Archetype: Mastermind (XGE)</name>
+                <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 46</text>
+            </feature>
+            <feature optional="YES">
+                <name>Roguish Archetype: Scout (XGE)</name>
+                <text>You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter-these are just a few of the roles that Scouts assume as they range the world.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 47</text>
+            </feature>
+            <feature optional="YES">
+                <name>Roguish Archetype: Swashbuckler</name>
+                <text>You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are brutes clad in heavy armor, your method of fighting looks more like performance. Rakes, duelists, and pirates typically follow this archetype.</text>
+                <text />
+                <text>A swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent. Swashbucklers are especially talented at making difficult maneuvers to escape enemies or attack from an unexpected direction.</text>
+                <text/>
+                <text>Source: Xanathar's Guide to Everything, p. 47</text>
+            </feature>
+        </autolevel>
+        <autolevel level="9">
+            <feature optional="YES">
+                <name>Inquisitive (XGE): Steady Eye</name>
+                <text>Starting at 9th level, you have advantage on any Wisdom (Perception) or Intelligence (Investigation) check if you move no more than half your speed on the same turn.</text>
+            </feature>
+        </autolevel>
+        <autolevel level="13">
+            <feature optional="YES">
+                <name>Inquisitive (XGE): Unerring Eye</name>
+                <text>Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren’t blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature. </text>
+                <text>  You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Inquisitive (XGE): Eye for Weakness</name>
+                <text>At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.</text>
             </feature>
         </autolevel>
         <!-- Unearthed Arcana -->
