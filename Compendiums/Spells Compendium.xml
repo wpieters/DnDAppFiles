@@ -903,13 +903,12 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>1 hour</duration>
-		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight)</classes>
+		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
 		<text />
 		<text />
 		<text>At Higher Levels: </text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
-		<roll />
 	</spell>
 
 	<spell>
@@ -2152,6 +2151,23 @@
 		<roll>1d6</roll>
 	</spell>
 	<spell>
+        <name>Earth Tremor (XGE)</name>
+        <level>1</level>
+        <school>EV</school>
+        <time>1 action</time>
+        <range>Self (10-foot radius)</range>
+        <components>V, S</components>
+        <duration>Instantaneous</duration>
+        <classes>Bard, Druid, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
+        <text>YYou cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.</text>
+        <text />
+        <text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</text>
+        <text />
+        <text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+        <roll>1d6</roll>
+    </spell>
+    <spell>
 		<name>Earthbind (EE, XGE)</name>
 		<level>2</level>
 		<school>T</school>
@@ -2235,6 +2251,21 @@
 		<roll>1d4</roll>
 	</spell>
 	<spell>
+        <name>Enemies Abound (XGE)</name>
+        <level>3</level>
+        <school>EN</school>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <components>V, S</components>
+        <duration>Concentration, up to 1 minute</duration>
+        <classes>Bard, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster)</classes>
+        <text>You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.</text>
+        <text />
+        <text>Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it’s using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.</text>  
+        <text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>      
+    </spell>
+    <spell>
 		<name>Enhance Ability</name>
 		<level>2</level>
 		<school>T</school>
@@ -3597,6 +3628,26 @@
 		<roll>10d8</roll>
 	</spell>
 	<spell>
+	    <name>Infestation (XGE)</name>
+	    <level>0</level>
+	    <school>C</school>
+	    <time>1 action</time>
+	    <range>30 feet</range>
+	    <components>V, S, M (a living flea)</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Druid, Sorceror, Warlock, Wizard</classes>
+	    <text>You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.</text>
+	    <text />
+	    <text>The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3016), and 17th level (4d6).</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	    <roll>1d4</roll>
+	    <roll>1d6</roll>
+	    <roll>2d6</roll>
+	    <roll>3d6</roll>
+	    <roll>4d6</roll>    
+	</spell>
+    <spell>
 		<name>Inflict Wounds</name>
 		<level>1</level>
 		<school>N</school>
@@ -4143,6 +4194,27 @@
 		<roll>1d4+SPELL</roll>
 	</spell>
 	<spell>
+	    <name>Mass Polymorph (XGE)</name>
+	    <level>9</level>
+	    <school>T</school>
+	    <time>1 action</time>
+	    <range>120 feet</range>
+	    <components>V,S,M (a caterpillar cacoon)</components>
+	    <duration>Concentration, up to 1 hour</duration>
+	    <classes>Bard, Sorcerer, Wizard</classes>
+	    <text>You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom saving throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.</text>
+	    <text />
+	    <text>  Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target’s (or half the target’s level, if the target doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its hit points, alignment, and personality.</text>
+	    <text />
+	    <text>  Each target gains a number of temporary hit points equal to the hit points of its new form. These temporary hit points can’t be replaced by temporary hit points from another source. A target reverts to its normal form when it has no more temporary hit points or it dies. If the spell ends before then, the creature loses all its temporary hit points and reverts to its normal form.</text>
+	    <text />
+	    <text>  The creature is limited in the actions it can perform by the nature of its new form. It can’t speak, cast spells, or do anything else that requires hands or speech.</text>
+	    <text />
+	    <text>  The target’s gear melds into the new form. The target can’t activate, use, wield, or otherwise benefit from any of its equipment.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Mass Suggestion</name>
 		<level>6</level>
 		<school>EN</school>
@@ -4295,6 +4367,23 @@
 		<duration>24 hours</duration>
 		<classes>Bard, Wizard</classes>
 		<text>Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.</text>
+	</spell>
+	<spell>
+    <name>Mind Spike (XGE)</name>
+	    <level>2</level>
+	    <school>D</school>
+	    <time>1 action</time>
+	    <range>60 feet</range>
+	    <components>S</components>
+	    <duration>Concentration, up to 1 hour</duration>
+	    <classes>Sorcerer, Warlock, Wizard</classes>
+	    <text>You reach into the mind of one creature you can see within range. The target must make a Wisdom saving throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can’t become hidden from you, and if it’s invisible, it gains no benefit from that condition against you.</text>
+	    <text />
+	    <text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	    <roll>3d8</roll>
+	    <roll>1d6</roll>
 	</spell>
 	<spell>
 		<name>Minor Illusion</name>
@@ -5027,6 +5116,23 @@
 		<text>For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.</text>
 	</spell>
 	<spell>
+	    <name>Psychic Scream (XGE)</name>
+	    <level>9</level>
+	    <school>EN</school>
+	    <time>1 action</time>
+	    <range>90 feet</range>
+	    <components>S</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Bard, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster)</classes>
+	    <text>You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.</text>
+	    <text />
+	    <text>  Each target must make an Intelligence saving throw. On a failed save, a target takes 14d6 psychic damage and is stunned. On a successful save, a target takes half as much damage and isn’t stunned. If a target is killed by this damage, its head explodes, assuming it has one.</text>
+	    <text />
+	    <text>  A stunned target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Purify Food and Drink</name>
 		<level>1</level>
 		<school>T</school>
@@ -5414,6 +5520,27 @@
 		<text>You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include after 1,000 years or when the tarrasque awakes. This spells also ends if the target takes any damage.</text>
 	</spell>
 	<spell>
+	    <name>Shadow Blade (XGE)</name>
+	    <level>2</level>
+	    <school>I</school>
+	    <time>1 bonus action</time>
+	    <range>Self</range>
+	    <components>V, S</components>
+	    <duration>Concentration, up to 1 minute</duration>
+	    <classes>Sorcerer, Warlock, Wizard</classes>
+	    <text>You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.</text>
+	    <text />
+	    <text>  If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.</text>
+	    <text />
+	    <text>At Higher Levels: When you cast this spell using a 3rd- or 4th—level spell slot, the damage increases to 3d8. When you cast it using a 5th— or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	    <roll>2d8</roll>
+	    <roll>3d8</roll>
+	    <roll>4d8</roll>
+	    <roll>5d8</roll>
+	</spell>
+    <spell>
 		<name>Shape Water (EE, XGE)</name>
 		<level>0</level>
 		<school>T</school>
@@ -5566,6 +5693,21 @@
 		<text>If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per hit point it regains. The simulacrum lasts until it drops to 0 hit points, at which point it reverts to snow and melts instantly.</text>
 		<text />
 		<text>If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.</text>
+	</spell>
+	<spell>
+	    <name>Skill Empowerment (XGE)</name>
+	    <level>5</level>
+	    <school>T</school>
+	    <time>1 action</time>
+	    <range>Touch</range>
+	    <components>V, S</components>
+	    <duration>Concentration, up to 1 hour</duration>
+	    <classes>Bard, Sorcerer, Wizard</classes>
+	    <text>Your magic deepens a creature’s understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its proficiency bonus for ability checks it makes that use the chosen skill.</text>
+	    <text />
+	    <text>  You must choose a skill in which the target is proficient and that isn’t already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.</text>  
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>  
 	</spell>
 	<spell>
 		<name>Skywrite (EE, XGE)</name>
@@ -5875,6 +6017,35 @@
 		<text>If you or any of your companions damage the target, the spell ends.</text>
 	</spell>
 	<spell>
+	    <name>Summon Lesser Demons (XGE)</name>
+	    <level>3</level>
+	    <school>C</school>
+	    <time>1 action</time>
+	    <range>60 feet</range>
+	    <components>V, S, M (a vial of blood from a humanoid killed within the past 24 hours)</components>
+	    <duration>Concentration, up to 1 hour</duration>
+	    <classes>Warlock, Wizard</classes>
+	    <text>You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.</text>
+	    <text />
+	    <text>d6-Demons Summoned.</text>
+	    <text />
+	    <text>1,2-Two demons of challenge rating 1 or lower.</text>
+	    <text />
+	    <text>3,4-Four demons of challenge rating 1/2 or lower.</text>
+	    <text />
+	    <text>5,6-Eight demons of challenge rating 1/4 or lower.</text>
+	    <text />
+	    <text>  The DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends..</text>
+	    <text />
+	    <text>  The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.</text>
+	    <text />
+	    <text>  As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can’t cross the circle or harm it, and they can‘t target anyone within it. Using the material component in this manner consumes it when the spell ends.</text>
+	    <text />
+	    <text>At Higher Levels: When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Sunbeam</name>
 		<level>6</level>
 		<school>EV</school>
@@ -5970,6 +6141,21 @@
 		<text />
 		<text>Stunning: Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.</text>
 		<roll>10d10</roll>
+	</spell>
+	<spell>
+	    <name>Synaptic Static (XGE)</name>
+	    <level>5</level>
+	    <school>En</school>
+	    <time>1 action</time>
+	    <range>120 feet</range>
+	    <components>V, S</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Bard, Sorcerer, Warlock, Wizard</classes>
+	    <text>You choose a point within range and cause psychic energy to explode there. Each creature in a 20—foot—radius sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score of 2 or lower can’t be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.</text>
+	    <text />
+	    <text>  After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain concentration. The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Tasha's Hideous Laughter</name>
@@ -6128,6 +6314,25 @@
 		<roll>4d6</roll>
 	</spell>
 	<spell>
+	    <name>Thunder Step (XGE)</name>
+	    <level>3</level>
+	    <school>C</school>
+	    <time>1 action</time>
+	    <range>90 feet</range>
+	    <components>V</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Sorcerer, Warlock, Wizard</classes>
+	    <text>You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds. and each creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.</text>
+	    <text />
+	    <text>  You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.</text>
+	    <text />
+	    <text>At Higher Levels: When you cast this spell using a 3rd- or 4th—level spell slot, the damage increases to 3d8. When you cast it using a 5th— or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	    <roll>3d10</roll>
+	    <roll>1d10</roll>
+	</spell>
+	<spell>
 		<name>Thunderclap (EE, XGE)</name>
 		<level>0</level>
 		<school>EV</school>
@@ -6201,6 +6406,29 @@
 		<text />
 		<text>This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.</text>
 		<roll>1d4+1</roll>
+	</spell>
+	<spell>
+	    <name>Toll the Dead (XGE)</name>
+	    <level>0</level>
+	    <school>N</school>
+	    <time>1 action</time>
+	    <range>60 feet</range>
+	    <components>V, S</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Cleric, Warlock, Wizard</classes>
+	    <text>You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d] 2 necrotic damage.</text>
+	    <text />
+	    <text>  The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	    <roll>1d8</roll>
+	    <roll>1d12</roll>
+	    <roll>2d8</roll>
+	    <roll>2d12</roll>
+	    <roll>3d8</roll>
+	    <roll>3d12</roll>
+	    <roll>4d8</roll>
+	    <roll>5d12</roll>
 	</spell>
 	<spell>
 		<name>Tongues</name>
