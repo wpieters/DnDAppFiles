@@ -143,7 +143,6 @@
 		<text>At Higher Levels: </text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
-		<roll></roll>
 	</spell>
 
 	<spell>
@@ -183,6 +182,106 @@
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 		<roll>8d6</roll>
 		<roll>4d6</roll>
+	</spell>
+	<spell>
+        <name>Earth Tremor (XGE)</name>
+        <level>1</level>
+        <school>EV</school>
+        <time>1 action</time>
+        <range>Self (10-foot radius)</range>
+        <components>V, S</components>
+        <duration>Instantaneous</duration>
+        <classes>Bard, Druid, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
+        <text>YYou cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.</text>
+        <text />
+        <text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</text>
+        <text />
+        <text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+        <roll>1d6</roll>
+    </spell>
+    <spell>
+        <name>Enemies Abound (XGE)</name>
+        <level>3</level>
+        <school>EN</school>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <components>V, S</components>
+        <duration>Concentration, up to 1 minute</duration>
+        <classes>Bard, Sorcerer, Warlock, Wizard</classes>
+        <text>You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.</text>
+        <text />
+        <text>Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it’s using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.</text>  
+        <text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>      
+    </spell>
+    <spell>
+	    <name>Mass Polymorph (XGE)</name>
+	    <level>9</level>
+	    <school>T</school>
+	    <time>1 action</time>
+	    <range>120 feet</range>
+	    <components>V,S,M (a caterpillar cacoon)</components>
+	    <duration>Concentration, up to 1 hour</duration>
+	    <classes>Bard, Sorcerer, Wizard</classes>
+	    <text>You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom saving throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.</text>
+	    <text />
+	    <text>  Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target’s (or half the target’s level, if the target doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its hit points, alignment, and personality.</text>
+	    <text />
+	    <text>  Each target gains a number of temporary hit points equal to the hit points of its new form. These temporary hit points can’t be replaced by temporary hit points from another source. A target reverts to its normal form when it has no more temporary hit points or it dies. If the spell ends before then, the creature loses all its temporary hit points and reverts to its normal form.</text>
+	    <text/>
+	    <text>  The creature is limited in the actions it can perform by the nature of its new form. It can’t speak, cast spells, or do anything else that requires hands or speech.</text>
+	    <text/>
+	    <text>  The target’s gear melds into the new form. The target can’t activate, use, wield, or otherwise benefit from any of its equipment.</text>
+	    <text/>
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
+	    <name>Psychic Scream (XGE)</name>
+	    <level>9</level>
+	    <school>EN</school>
+	    <time>1 action</time>
+	    <range>90 feet</range>
+	    <components>S</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Bard, Sorcerer, Warlock, Wizard</classes>
+	    <text>You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.</text>
+	    <text />
+	    <text>  Each target must make an Intelligence saving throw. On a failed save, a target takes 14d6 psychic damage and is stunned. On a successful save, a target takes half as much damage and isn’t stunned. If a target is killed by this damage, its head explodes, assuming it has one.</text>
+	    <text />
+	    <text>  A stunned target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+    <spell>
+	    <name>Skill Empowerment (XGE)</name>
+	    <level>5</level>
+	    <school>T</school>
+	    <time>1 action</time>
+	    <range>Touch</range>
+	    <components>V,S</components>
+	    <duration>Concentration, up to 1 hour</duration>
+	    <classes>Bard, Sorcerer, Wizard</classes>
+	    <text>Your magic deepens a creature’s understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its proficiency bonus for ability checks it makes that use the chosen skill.</text>
+	    <text />
+	    <text>You must choose a skill in which the target is proficient and that isn’t already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.</text>  
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>  
+	</spell>
+	<spell>
+	    <name>Synaptic Static (XGE)</name>
+	    <level>5</level>
+	    <school>En</school>
+	    <time>1 action</time>
+	    <range>120 feet</range>
+	    <components>V,S</components>
+	    <duration>Instantaneous</duration>
+	    <classes>Bard, Sorcerer, Warlock, Wizard</classes>
+	    <text>You choose a point within range and cause psychic energy to explode there. Each creature in a 20—foot—radius sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score of 2 or lower can’t be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.</text>
+	    <text />
+	    <text>After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain concentration. The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+	    <text />
+	    <text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Transmute Rock (XGE)</name>
