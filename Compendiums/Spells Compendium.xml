@@ -826,7 +826,7 @@
 	<spell>
 		<name>Catnap (XGE)</name>
 		<level>3</level>
-		<school>E</school>
+		<school>EN</school>
 		<time>1 action</time>
 		<range>30 feet</range>
 		<components>S, M (a pinch of sand)</components>
