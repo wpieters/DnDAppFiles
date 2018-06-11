@@ -8770,7 +8770,7 @@
 				<modifier category="skills">Survival +PROF</modifier>
 			</feature>            
 			<feature optional="YES">
-				<name>Roguish Archetype: Swashbuckler</name>
+				<name>Roguish Archetype: Swashbuckler (XGE)</name>
 				<text>You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are brutes clad in heavy armor, your method of fighting looks more like performance. Rakes, duelists, and pirates typically follow this archetype.</text>
 				<text />
 				<text>A swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent. Swashbucklers are especially talented at making difficult maneuvers to escape enemies or attack from an unexpected direction.</text>
