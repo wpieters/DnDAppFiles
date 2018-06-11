@@ -832,7 +832,7 @@
 		<components>S, M (a pinch of sand)</components>
 		<duration>10 minutes</duration>
 		<classes>Bard, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
-		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a slong rest.</text>
+		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.</text>
 		<text />
@@ -854,23 +854,7 @@
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
-		<name>Chain Lightning</name>
-		<level>6</level>
-		<school>EV</school>
-		<time>1 action</time>
-		<range>150 feet</range>
-		<components>V, S, M (a bit of fur, a piece of amber, glass, or crystal rod, and three silver pins)</components>
-		<duration>Instantaneous</duration>
-		<classes>Sorcerer, Wizard</classes>
-		<text>You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.</text>
-		<text />
-		<text>A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much on a successful one.</text>
-		<text />
-		<text>At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.</text>
-		<roll>10d8</roll>
-	</spell>
-	<spell>
-		<name>Chaos Bolt (XGE)</name>
+		<name>Ceremony (XGE)</name>
 		<level>1</level>
 		<school>A</school>
 		<ritual>YES</ritual>
@@ -896,6 +880,60 @@
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
+		<name>Chain Lightning</name>
+		<level>6</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>150 feet</range>
+		<components>V, S, M (a bit of fur, a piece of amber, glass, or crystal rod, and three silver pins)</components>
+		<duration>Instantaneous</duration>
+		<classes>Sorcerer, Wizard</classes>
+		<text>You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.</text>
+		<text />
+		<text>A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much on a successful one.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.</text>
+		<roll>10d8</roll>
+	</spell>
+	<spell>
+		<name>Chaos Bolt (XGE)</name>
+		<level>1</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>V, S</components>
+		<duration>Instantaneous</duration>
+		<classes>Sorcerer</classes>
+		<text>You hurl an undulating, warbling mass of chatoic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type, as shown below.</text>
+		<text />
+		<text>1-Acid.</text>
+		<text />
+		<text>2-Cold.</text>
+		<text />
+		<text>3-Fire.</text>
+		<text />
+		<text>4-Force.</text>
+		<text />
+		<text>5-Lightning.</text>
+		<text />
+		<text>6-Poison.</text>
+		<text />
+		<text>7-Psychic.</text>
+		<text />
+		<text>8-Thunder.</text>
+		<text />
+		<text>If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.</text>
+		<text />
+		<text>  A creature can be targeted only once by each casting of this spell.</text>
+		<text />
+		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>d20+SPELL+PROF</roll>
+		<roll>2d8+1d6</roll>
+		<roll>1d6</roll>
+	</spell>
+	<spell>
 		<name>Charm Monster (XGE)</name>
 		<level>4</level>
 		<school>EN</school>
@@ -903,7 +941,7 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>1 hour</duration>
-		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text />
 		<text />
 		<text>At Higher Levels: </text>
@@ -1421,7 +1459,7 @@
 		<range>60 feet</range>
 		<components>S</components>
 		<duration>Instantaneous or 1 hour (see below)</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways.</text>
 		<text />
 		<text>You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.</text>
@@ -1550,7 +1588,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.</text>
 		<text />
 		<text>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</text>
@@ -1569,7 +1607,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.</text>
 		<text />
 		<text>The bonfire ignites flammable objects in its area that aren't being worn or carried.</text>
@@ -1593,6 +1631,23 @@
 		<classes>Cleric, Druid (Desert), Paladin</classes>
 		<text>You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.</text>
 	</spell>
+	<spell>
+        <name>Create Homunculus (XGE)</name>
+        <level>6</level>
+        <school>T</school>
+        <time>1 hour</time>
+        <range>Touch</range>
+        <components>V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)</components>
+        <duration>Instantaneous</duration>
+        <classes>Wizard</classes>
+        <text>While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can’t be reduced in any way. You then drip your blood on the spell’s other components and touch them, transforming them into a special construct called a homunculus.</text>
+        <text />
+        <text>  The statistics of the homunculus are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus’s hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point. and the change to your and the homunculus’s hit points ends when you finish your next long rest. The reduction to your hit point maximum can’t be removed by any means before then, except by the homunculus‘s death.</text>
+        <text />
+        <text>  You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
 	<spell>
 		<name>Create Undead</name>
 		<level>6</level>
@@ -1769,6 +1824,23 @@
 		<text>You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.</text>
 	</spell>
 	<spell>
+        <name>Dawn (XGE)</name>
+        <level>5</level>
+        <school>EV</school>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <components>V, S, M (a sunburst pendant worth at least 100 gp)</components>
+        <duration>Concentration, up to 1 minute</duration>
+        <classes>Cleric, Wizard</classes>
+        <text>The light of dawn shines down on a location you specify within range. Until the spell ends, a 30—foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is sunlight.</text>
+        <text />
+        <text>  When the cylinder appears, each creature in it must make a Constitution saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw whenever it ends its turn in the cylinder.</text>
+        <text />
+        <text>  If you’re within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
+    <spell>
 		<name>Daylight</name>
 		<level>3</level>
 		<school>EV</school>
@@ -2096,6 +2168,21 @@
 		<text>At Higher Levels: When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.</text>
 	</spell>
 	<spell>
+        <name>Dragon's Breath (XGE)</name>
+        <level>2</level>
+        <school>T</school>
+        <time>1 bonus action</time>
+        <range>Touch</range>
+        <components>V, S, M (a hot pepper)</components>
+        <duration>Concentration, up to 1 minute</duration>
+        <classes>Sorcerer, Wizard</classes>
+        <text>You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.</text>
+        <text />
+        <text>  At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by ld6 for each slot level above 2nd.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
+    <spell>
 		<name>Drawmij's Instant Summon</name>
 		<level>6</level>
 		<school>C</school>
@@ -2131,6 +2218,39 @@
 		<text>If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.</text>
 		<roll>3d6</roll>
 	</spell>
+	<spell>
+        <name>Druid Grove (XGE)</name>
+        <level>6</level>
+        <school>A</school>
+        <time>10 minutes</time>
+        <range>Touch</range>
+        <components>V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)</components>
+        <duration>24 hours</duration>
+        <classes>Druid</classes>
+        <text>You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a 30—foot cube or as large as a 90-foot cube. Buildings and other structures are excluded from the affected area. If you cast this spell in the same area every day for a year, the spell lasts until dispelled.</text>
+        <text />
+        <text>  The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.</text>
+        <text />
+        <text>  The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell’s caster chooses which effect to end. Only when all its effects are gone is this spell dispelled.</text>
+        <text />
+        <text>  Solid Fog: You can fill any number of 5-foot squares on the ground with thick fog, making them heavily obscured. The fog reaches 10 feet high. In addition, every foot of movement through the fog costs 2 extra feet. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air.</text>
+        <text />
+        <text>  Grasping Undergrowth: You can fill any number of 5-foot squares on the ground that aren’t filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect, the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds.</text>
+        <text />
+        <text>  Grove Guardians: You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the Monster Manual, except they can’t speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have driven off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the grove guardians do nothing. The grove guardians can‘t leave the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible.</text>
+        <text />
+        <text>Additional Spell Effect: You can place your choice of one of the following magical effects within the warded area:</text>
+        <text />
+        <text>• A constant gust of Wind in two locations of your choice</text>
+        <text />
+        <text>• Spike growth in one location of your choice</text>
+        <text />
+        <text>• Wind wall in two locations of your choice</text>
+        <text />
+        <text>  To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
 	<spell>
 		<name>Druidcraft</name>
 		<level>0</level>
@@ -2937,7 +3057,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.</text>
 		<text />
 		<text>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
@@ -3248,7 +3368,7 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You seize the air and compel it to create one of the following effects at a point you can see within range.</text>
 		<text />
 		<text>• One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.</text>
@@ -4619,7 +4739,7 @@
 		<range>30 feet</range>
 		<components>S</components>
 		<duration>Instantaneous or 1 hour (see below)</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways.</text>
 		<text />
 		<text>• If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn't have enough force to cause damage.</text>
@@ -5736,7 +5856,7 @@
 		<range>30 feet</range>
 		<components>S</components>
 		<duration>Instantaneous or 1 hour (see below)</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways.</text>
 		<text />
 		<text>• You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.</text>
@@ -6589,7 +6709,7 @@
 		<range>Self (5-foot radius)</range>
 		<components>S</components>
 		<duration>Instantaneous</duration>
-		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.</text>
 		<text />
 		<text>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>

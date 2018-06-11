@@ -102,7 +102,7 @@
 		<range>60 feet</range>
 		<components>S</components>
 		<duration>Instantaneous or 1 hour (see below)</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways.</text>
 		<text />
 		<text>You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.</text>
@@ -144,7 +144,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.</text>
 		<text />
 		<text>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</text>
@@ -260,7 +260,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.</text>
 		<text />
 		<text>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
@@ -279,7 +279,7 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You seize the air and compel it to create one of the following effects at a point you can see within range.</text>
 		<text />
 		<text>• One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.</text>
@@ -481,7 +481,7 @@
 		<range>30 feet</range>
 		<components>S</components>
 		<duration>Instantaneous or 1 hour (see below)</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways.</text>
 		<text />
 		<text>• If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn't have enough force to cause damage.</text>
@@ -534,7 +534,7 @@
 		<range>30 feet</range>
 		<components>S</components>
 		<duration>Instantaneous or 1 hour (see below)</duration>
-		<classes>Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways.</text>
 		<text />
 		<text>• You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.</text>
@@ -609,7 +609,7 @@
 		<range>Self (5-foot radius)</range>
 		<components>S</components>
 		<duration>Instantaneous</duration>
-		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.</text>
 		<text />
 		<text>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>

@@ -44,7 +44,7 @@
 		<components>S, M (a pinch of sand)</components>
 		<duration>10 minutes</duration>
 		<classes>Bard, Sorcerer, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
-		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a slong rest.</text>
+		<text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.</text>
 		<text />
@@ -66,7 +66,7 @@
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
-		<name>Chaos Bolt (XGE)</name>
+		<name>Ceremony (XGE)</name>
 		<level>1</level>
 		<school>A</school>
 		<ritual>YES</ritual>
@@ -137,7 +137,7 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>1 hour</duration>
-		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text></text>
 		<text />
 		<text>At Higher Levels: </text>
@@ -152,7 +152,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
+		<classes>Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
 		<text>You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.</text>
 		<text />
 		<text>The bonfire ignites flammable objects in its area that aren't being worn or carried.</text>
@@ -165,6 +165,23 @@
 		<roll>3d8</roll>
 		<roll>4d8</roll>
 	</spell>
+	<spell>
+        <name>Create Homunculus (XGE)</name>
+        <level>6</level>
+        <school>T</school>
+        <time>1 hour</time>
+        <range>Touch</range>
+        <components>V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)</components>
+        <duration>Instantaneous</duration>
+        <classes>Wizard</classes>
+        <text>While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can’t be reduced in any way. You then drip your blood on the spell’s other components and touch them, transforming them into a special construct called a homunculus.</text>
+        <text />
+        <text>  The statistics of the homunculus are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus’s hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point. and the change to your and the homunculus’s hit points ends when you finish your next long rest. The reduction to your hit point maximum can’t be removed by any means before then, except by the homunculus‘s death.</text>
+        <text />
+        <text>  You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
 	<spell>
 	    <name>Crown of Stars (XGE)</name>
 	    <level>7</level>
@@ -202,6 +219,71 @@
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
+	<spell>
+        <name>Dawn (XGE)</name>
+        <level>5</level>
+        <school>EV</school>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <components>V, S, M (a sunburst pendant worth at least 100 gp)</components>
+        <duration>Concentration, up to 1 minute</duration>
+        <classes>Cleric, Wizard</classes>
+        <text>The light of dawn shines down on a location you specify within range. Until the spell ends, a 30—foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is sunlight.</text>
+        <text />
+        <text>  When the cylinder appears, each creature in it must make a Constitution saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw whenever it ends its turn in the cylinder.</text>
+        <text />
+        <text>  If you’re within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
+    <spell>
+        <name>Dragon's Breath (XGE)</name>
+        <level>2</level>
+        <school>T</school>
+        <time>1 bonus action</time>
+        <range>Touch</range>
+        <components>V, S, M (a hot pepper)</components>
+        <duration>Concentration, up to 1 minute</duration>
+        <classes>Sorcerer, Wizard</classes>
+        <text>You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.</text>
+        <text />
+        <text>  At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by ld6 for each slot level above 2nd.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
+    <spell>
+        <name>Druid Grove (XGE)</name>
+        <level>6</level>
+        <school>A</school>
+        <time>10 minutes</time>
+        <range>Touch</range>
+        <components>V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)</components>
+        <duration>24 hours</duration>
+        <classes>Druid</classes>
+        <text>You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a 30—foot cube or as large as a 90-foot cube. Buildings and other structures are excluded from the affected area. If you cast this spell in the same area every day for a year, the spell lasts until dispelled.</text>
+        <text />
+        <text>  The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.</text>
+        <text />
+        <text>  The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell’s caster chooses which effect to end. Only when all its effects are gone is this spell dispelled.</text>
+        <text />
+        <text>  Solid Fog: You can fill any number of 5-foot squares on the ground with thick fog, making them heavily obscured. The fog reaches 10 feet high. In addition, every foot of movement through the fog costs 2 extra feet. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air.</text>
+        <text />
+        <text>  Grasping Undergrowth: You can fill any number of 5-foot squares on the ground that aren’t filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect, the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds.</text>
+        <text />
+        <text>  Grove Guardians: You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the Monster Manual, except they can’t speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have driven off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the grove guardians do nothing. The grove guardians can‘t leave the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible.</text>
+        <text />
+        <text>Additional Spell Effect: You can place your choice of one of the following magical effects within the warded area:</text>
+        <text />
+        <text>• A constant gust of Wind in two locations of your choice</text>
+        <text />
+        <text>• Spike growth in one location of your choice</text>
+        <text />
+        <text>• Wind wall in two locations of your choice</text>
+        <text />
+        <text>  To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless.</text>
+        <text />
+        <text>This spell can be found in Xanathar's Guide to Everything</text>
+    </spell>
 	<spell>
 		<name>Enervation (XGE)</name>
 		<level>5</level>
