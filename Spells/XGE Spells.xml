@@ -714,7 +714,7 @@
 		<text />
 		<text>  You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.</text>
 		<text />
-		<text>At Higher Levels: When you cast this spell using a 3rd- or 4th—level spell slot, the damage increases to 3d8. When you cast it using a 5th— or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.</text>
+		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.</text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 		<roll>3d10</roll>
