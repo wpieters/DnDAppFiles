@@ -318,6 +318,27 @@
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
+		<name>Find Greater Steed (XGE)</name>
+		<level>4</level>
+		<school>C</school>
+		<time>10 minutes</time>
+		<range>30 feet</range>
+		<components>V, S</components>
+		<duration>Instantaneous</duration>
+		<classes>Paladin</classes>
+		<text>You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a griffon, a pegasus, a peryton, a dire wolf, a rhinoceros, or a saber-toothed tiger. The creature has the statistics provided in the Monster Manual for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.</text>
+		<text />
+		<text>	You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.</text>
+		<text />
+		<text>	The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.</text>
+		<text />
+		<text>	You can't have more than one mount bonded by this spell or find steed at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently.</text>
+		<text />
+		<text>	Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Guardian of Nature (XGE)</name>
 		<level>4</level>
 		<school>T</school>
@@ -327,16 +348,16 @@
 		<duration>Concentration, up to 1 minute</duration>
 		<classes>Druid, Ranger</classes>
 		<text>A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.</text>
-		<text>	 </text>
+		<text />
 		<text>	Primal Beast: Bestial fur covers your body, your facial features become feral, and you gain the following benefits:</text>
-		<text>	 </text>
+		<text />
 		<text>• Your walking speed increases by 10 feet.</text>
 		<text>	You gain darkvision with a range of 120 feet.</text>
 		<text>• You make Strength-based attack rolls with advantage.</text>
 		<text>• Your melee weapon attacks deal an extra 1d6 force damage on a hit.</text>
-		<text>	 </text>
+		<text />
 		<text>	Great Tree: Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:</text>
-		<text>	 </text>
+		<text />
 		<text>• You gain 10 temporary hit points.</text>
 		<text>• You make Constitution saving throws with advantage.</text>
 		<text>• You make Dexterity- and Wisdom-based attack rolls with advantage.</text>
@@ -1000,13 +1021,13 @@
 		<duration>Concentration, up to 1 minute</duration>
 		<classes>Druid, Ranger</classes>
 		<text>You call out to the spirits of nature to rouse them against your enemies. Choose a point you can see within range. The spirits cause trees, rocks, and grasses in a 60-foot cube centered on that point to become animated until the spell ends.</text>
-		<text>	 </text>
+		<text />
 		<text>	Grasses and Undergrowth: Any area of ground in the cube that is covered by grass or undergrowth is difficult terrain for your enemies.</text>
-		<text>	 </text>
+		<text />
 		<text>	Trees: At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take 4d6 slashing damage from whipping branches.</text>
-		<text>	 </text>
+		<text />
 		<text>	Roots and Vines: At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become restrained until the spell ends. A restrained creature can use an action to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.</text>
-		<text>	 </text>
+		<text />
 		<text>	Rock: As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.</text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
