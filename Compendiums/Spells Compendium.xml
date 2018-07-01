@@ -943,7 +943,7 @@
 		<duration>1 hour</duration>
 		<classes>Bard, Druid, Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard</classes>
 		<text>You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.</text>
-		<text>	</text>
+		<text />
 		<text>	At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.</text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
@@ -3792,6 +3792,25 @@
 		<text>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</text>
 	</spell>
 	<spell>
+		<name>Illusory Dragon (XGE)</name>
+		<level>8</level>
+		<school>I</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>S</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Wizard</classes>
+		<text>By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The illusion lasts for the spell's duration and occupies its space, as if it were a creature.</text>
+		<text />
+		<text>	When the illusion appears, any of your enemies that can see it must succeed on a Wisdom saving throw or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the saving throw, ending the effect on itself on a success.</text>
+		<text />
+		<text>	As a bonus action on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.</text>
+		<text />
+		<text>	The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Illusory Script</name>
 		<level>1</level>
 		<school>I</school>
@@ -4067,6 +4086,19 @@
 		<text>A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.</text>
+	</spell>
+	<spell>
+		<name>Invulnerability (XGE)</name>
+		<level>9</level>
+		<school>A</school>
+		<time>1 action</time>
+		<range>Self</range>
+		<components>V, S, M (a small piece of adamantine worth at least 500 gp, which the spell consumes)</components>
+		<duration>Concentration, up to 10 minutes</duration>
+		<classes>Wizard</classes>
+		<text>You are immune to all damage until the spell ends.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Jump</name>
@@ -4699,6 +4731,31 @@
 		<text />
 		<text>The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.</text>
 		<roll>20d6+20d6</roll>
+	</spell>
+	<spell>
+		<name>Mighty Fortress (XGE)</name>
+		<level>8</level>
+		<school>C</school>
+		<time>1 minute</time>
+		<range>1 mile</range>
+		<components>V, S, M (a diamond worth at least 500 gp, which the spell consumes)</components>
+		<duration>Instantaneous</duration>
+		<classes>Wizard</classes>
+		<text>A fortress of stone erupts from a square area of ground of your choice that you can see within range. The area is 120 feet on each side, and it must not have any buildings or other structures on it. Any creatures in the area are harmlessly lifted up as the fortress rises.</text>
+		<text />
+		<text>	The fortress has four turrets with square bases, each one 20 feet on a side and 30 feet tall, with one turret on each corner. The turrets are connected to each other by stone walls that are each 80 feet long, creating an enclosed area. Each wall is 1 foot thick and is composed of panels that are 10 feet wide and 20 feet tall. Each panel is contiguous with two other panels or one other panel and a turret. You can place up to four stone doors in the fortress's outer wall.</text>
+		<text />
+		<text>	A small keep stands inside the enclosed area. The keep has a square base that is 50 feet on each side, and it has three floors with 10-foot-high ceilings. Each of the floors can be divided into as many rooms as you like, provided each room is at least 5 feet on each side. The floors of the keep are connected by stone staircases, its walls are 6 inches thick, and interior rooms can have stone doors or open archways as you choose. The keep is furnished and decorated however you like, and it contains sufficient food to serve a nine-course banquet for up to 100 people each day. Furnishings, food, and other objects created by this spell crumble to dust if removed from the fortress.</text>
+		<text />
+		<text>	A staff of one hundred invisible servants obeys any command given to them by creatures you designate when you cast the spell. Each servant functions as if created by the unseen servant spell.</text>
+		<text />
+		<text>	The walls, turrets, and keep are all made of stone that can be damaged. Each 10-foot-by-10-foot section of stone has AC 15 and 30 hit points per inch of thickness. It is immune to poison and psychic damage. Reducing a section of stone to 0 hit points destroys it and might cause connected sections to buckle and collapse at the DM's discretion.</text>
+		<text />
+		<text>	After 7 days or when you cast this spell somewhere else, the fortress harmlessly crumbles and sinks back into the ground, leaving any creatures that were inside it safely on the ground.</text>
+		<text />
+		<text>	Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Mind Blank</name>
@@ -6817,6 +6874,49 @@
 		<text>If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.</text>
 	</spell>
 	<spell>
+		<name>Tenser's Transformation (XGE)</name>
+		<level>6</level>
+		<school>T</school>
+		<time>1 action</time>
+		<range>Self</range>
+		<components>V, S, M (a few hairs from a bull)</components>
+		<duration>Concentration, up to 10 minutes</duration>
+		<classes>Wizard</classes>
+		<text>You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can't cast spells, and you gain the following benefits:</text>
+		<text />
+		<text>• You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.</text>
+		<text />
+		<text>• You have advantage on attack rolls that you make with simple and martial weapons.</text>
+		<text />
+		<text>• When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.</text>
+		<text />
+		<text>• You have proficiency with all armor, shields, simple weapons, and martial weapons.</text>
+		<text />
+		<text>• You have proficiency in Strength and Constitution saving throws.</text>
+		<text />
+		<text>• You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.</text>
+		<text />
+		<text>	Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.</text>
+		<text />
+		<text>Exhaustion:</text>
+		<text>	Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.</text>
+		<text />
+		<text>Level - Effect:</text>
+		<text>1 - Disadvantage on ability checks</text>
+		<text>2 - Speed halved</text>
+		<text>3 - Disadvantage on attack rolls and saving throws</text>
+		<text>4 - Hit point maximum halved</text>
+		<text>5 - Speed reduced to 0</text>
+		<text>6 - Death</text>
+		<text />
+		<text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</text>
+		<text>	A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
+		<text>	An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</text>
+		<text>	Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Thaumaturgy</name>
 		<level>0</level>
 		<school>T</school>
@@ -6952,6 +7052,25 @@
 		<text />
 		<text>This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.</text>
 		<roll>1d4+1</roll>
+	</spell>
+	<spell>
+		<name>Tiny Servant (XGE)</name>
+		<level>3</level>
+		<school>T</school>
+		<time>1 minute</time>
+		<range>Touch</range>
+		<components>V, S</components>
+		<duration>8 hours</duration>
+		<classes>Wizard</classes>
+		<text>You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the stat block for its statistics.</text>
+		<text />
+		<text>	As a bonus action, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.</text>
+		<text />
+		<text>	When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.</text>
+		<text />
+		<text>	At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Toll the Dead (XGE)</name>
@@ -7530,6 +7649,32 @@
 		<roll>3d6*10</roll>
 	</spell>
 <spell>
+		<name>Whirlwind (XGE)</name>
+		<level>7</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>300 feet</range>
+		<components>V, M (a piece of straw)</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Druid, Sorcerer, Wizard</classes>
+		<text>A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your action to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.</text>
+		<text />
+		<text>	A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become restrained in the whirlwind until the spell ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A restrained creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.</text>
+		<text />
+		<text>	A restrained creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 * 10 feet away from it in a random direction.</text>
+		<text />
+		<text>Restrained:</text>
+		<text>• A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+		<text />
+		<text>• Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+		<text />
+		<text>• The creature has disadvantage on Dexterity saving throws.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>10d6</roll>
+		<roll>3d6*10</roll>
+	</spell>
+	<spell>
 		<name>Wind Walk</name>
 		<level>6</level>
 		<school>T</school>
