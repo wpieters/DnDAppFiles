@@ -941,10 +941,10 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>1 hour</duration>
-		<classes>Bard, Druid, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
-		<text />
-		<text />
-		<text>At Higher Levels: </text>
+		<classes>Bard, Druid, Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard</classes>
+		<text>You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.</text>
+		<text>	</text>
+		<text>	At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.</text>
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
@@ -2661,7 +2661,7 @@
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
-		<spell>
+	<spell>
 		<name>Fear</name>
 		<level>3</level>
 		<school>I</school>
@@ -3299,6 +3299,33 @@
 		<text>Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.</text>
 	</spell>
 	<spell>
+		<name>Guardian of Nature (XGE)</name>
+		<level>4</level>
+		<school>T</school>
+		<time>1 bonus action</time>
+		<range>Self</range>
+		<components>V</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Druid, Ranger</classes>
+		<text>A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.</text>
+		<text>	 </text>
+		<text>	Primal Beast: Bestial fur covers your body, your facial features become feral, and you gain the following benefits:</text>
+		<text>	 </text>
+		<text>• Your walking speed increases by 10 feet.</text>
+		<text>	You gain darkvision with a range of 120 feet.</text>
+		<text>• You make Strength-based attack rolls with advantage.</text>
+		<text>• Your melee weapon attacks deal an extra 1d6 force damage on a hit.</text>
+		<text>	 </text>
+		<text>	Great Tree: Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:</text>
+		<text>	 </text>
+		<text>• You gain 10 temporary hit points.</text>
+		<text>• You make Constitution saving throws with advantage.</text>
+		<text>• You make Dexterity- and Wisdom-based attack rolls with advantage.</text>
+		<text>• While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Guards and Wards</name>
 		<level>6</level>
 		<school>A</school>
@@ -3495,6 +3522,25 @@
 		<text>Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. The spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.</text>
+	</spell>
+	<spell>
+		<name>Healing Spirit (XGE)</name>
+		<level>2</level>
+		<school>C</school>
+		<time>1 bonus action</time>
+		<range>60 feet</range>
+		<components>V, S</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Druid, Ranger</classes>
+		<text>You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).</text>
+		<text />
+		<text>	Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can't heal constructs or undead.</text>
+		<text />
+		<text>	As a bonus action on your turn, you can move the spirit up to 30 feet to a space you can see.</text>
+		<text />
+		<text>	At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Healing Word</name>
@@ -5258,6 +5304,22 @@
 		<text>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</text>
 	</spell>
 	<spell>
+		<name>Primal Savagery (XGE)</name>
+		<level>0</level>
+		<school>T</school>
+		<time>1 action</time>
+		<range>Self</range>
+		<components>S</components>
+		<duration>Instantaneous</duration>
+		<classes>Druid</classes>
+		<text>You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.</text>
+		<text />
+		<text>	The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+		<roll>1d10</roll>
+	</spell>
+	<spell>
 		<name>Primordial Ward (EE, XGE)</name>
 		<level>6</level>
 		<school>A</school>
@@ -6127,6 +6189,28 @@
 		<text />
 		<text>A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.</text>
 	</spell>
+	<spell>
+		<name>Snare (XGE)</name>
+		<level>1</level>
+		<school>A</school>
+		<time>1 minute</time>
+		<range>Touch</range>
+		<components>S, M (25 feet of rope, which the spell consumes)</components>
+		<duration>8 hours</duration>
+		<classes>Druid, Fighter (Eldritch Knight), Ranger, Wizard</classes>
+		<text>As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap.</text>
+		<text />
+		<text>	This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned.</text>
+		<text />
+		<text>	The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends.</text>
+		<text />
+		<text>	A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends.</text>
+		<text />
+		<text>	After the trap is triggered, the spell ends when no creature is restrained by it.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	
 	<spell>
 		<name>Snilloc's Snowball Swarm (EE, XGE)</name>
 		<level>2</level>
@@ -7266,6 +7350,31 @@
 		<text>This spell can be found in the Elemental Evil Player's Companion and Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
+		<name>Warding Wind (XGE)</name>
+		<level>2</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>Self</range>
+		<components>V</components>
+		<duration>Concentration, up to 10 minutes</duration>
+		<classes>Bard, Druid, Fighter (Eldritch Knight), Sorcerer, Wizard</classes>
+		<text>A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.</text>
+		<text />
+		<text>	The wind has the following effects:</text>
+		<text />
+		<text>• It deafens you and other creatures in its area.</text>
+		<text />
+		<text>• It extinguishes unprotected flames in its area that are torch-sized or smaller.</text>
+		<text />
+		<text>• It hedges out vapor, gas, and fog that can be dispersed by strong wind.</text>
+		<text />
+		<text>• The area is difficult terrain for creatures other than you.</text>
+		<text />
+		<text>• The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Water Breathing</name>
 		<level>3</level>
 		<school>T</school>
@@ -7472,7 +7581,7 @@
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
-<spell>
+	<spell>
 		<name>Word of Recall</name>
 		<level>6</level>
 		<school>C</school>
@@ -7486,6 +7595,27 @@
 		<text>You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.</text>
 	</spell>
 	<spell>
+		<name>Wrath of Nature (XGE)</name>
+		<level>5</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>120 feet</range>
+		<components>V, S</components>
+		<duration>Concentration, up to 1 minute</duration>
+		<classes>Druid, Ranger</classes>
+		<text>You call out to the spirits of nature to rouse them against your enemies. Choose a point you can see within range. The spirits cause trees, rocks, and grasses in a 60-foot cube centered on that point to become animated until the spell ends.</text>
+		<text>	 </text>
+		<text>	Grasses and Undergrowth: Any area of ground in the cube that is covered by grass or undergrowth is difficult terrain for your enemies.</text>
+		<text>	 </text>
+		<text>	Trees: At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take 4d6 slashing damage from whipping branches.</text>
+		<text>	 </text>
+		<text>	Roots and Vines: At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become restrained until the spell ends. A restrained creature can use an action to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.</text>
+		<text>	 </text>
+		<text>	Rock: As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+<spell>
 		<name>Wrathful Smite</name>
 		<level>1</level>
 		<school>EV</school>
