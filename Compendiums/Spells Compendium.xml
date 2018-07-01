@@ -2661,7 +2661,7 @@
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
-	<spell>
+		<spell>
 		<name>Fear</name>
 		<level>3</level>
 		<school>I</school>
@@ -3622,6 +3622,21 @@
 		<text>Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.</text>
 	</spell>
 	<spell>
+		<name>Holy Weapon (XGE)</name>
+		<level>5</level>
+		<school>EV</school>
+		<time>1 bonus action</time>
+		<range>Touch</range>
+		<components>V, S</components>
+		<duration>Concentration, up to 1 hour</duration>
+		<classes>Cleric, Paladin</classes>
+		<text>You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.</text>
+		<text />
+		<text>	As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Hunger of Hadar</name>
 		<level>3</level>
 		<school>C</school>
@@ -4084,6 +4099,21 @@
 		<text>The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range.</text>
 		<text />
 		<text>When the spell ends, the target floats gently to the ground if it is still aloft.</text>
+	</spell>
+	<spell>
+		<name>Life Transference (XGE)</name>
+		<level>3</level>
+		<school>N</school>
+		<time>1 action</time>
+		<range>30 feet</range>
+		<components>V, S</components>
+		<duration>Instantaneous</duration>
+		<classes>Cleric, Wizard</classes>
+		<text>You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.</text>
+		<text />
+		<text>	At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
 	<spell>
 		<name>Light</name>
@@ -6624,6 +6654,33 @@
 		<text>You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.</text>
 	</spell>
 	<spell>
+		<name>Temple of the Gods (XGE)</name>
+		<level>7</level>
+		<school>C</school>
+		<time>1 hour</time>
+		<range>120 feet</range>
+		<components>V, S, M (a holy symbol worth at least 5 gp)</components>
+		<duration>24 hours</duration>
+		<classes>Cleric</classes>
+		<text>You cause a temple to shimmer into existence on ground you can see within range. The temple must fit within an unoccupied cube of space, up to 120 feet on each side. The temple remains until the spell ends. It is dedicated to whatever god, pantheon, or philosophy is represented by the holy symbol used in the casting.</text>
+		<text />
+		<text>	You make all decisions about the temple'Ï appearance. The interior is enclosed by a floor, walls, and a roof, with one door granting access to the interior and as many windows as you wish. Only you and any creatures you designate when you cast the spell can open or close the door.</text>
+		<text />
+		<text>	The temple's interior is an open space with an idol or altar at one end. You decide whether the temple is illuminated and whether that illumination is bright light or dim light. The smell of burning incense fills the air within, and the temperature is mild.</text>
+		<text />
+		<text>	The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma saving throw. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a saving throw inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.</text>
+		<text />
+		<text>	In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.</text>
+		<text />
+		<text>	Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).</text>
+		<text />
+		<text>	The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by dispel magic, and antimagic field has no effect on it. A disintegrate spell destroys the temple instantly.</text>
+		<text />
+		<text>	Casting this spell on the same spot every day for a year makes this effect permanent.</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+	<spell>
 		<name>Tenser's Floating Disk</name>
 		<level>1</level>
 		<school>C</school>
@@ -7276,7 +7333,7 @@
 		<text />
 		<text>This spell can be found in Xanathar's Guide to Everything</text>
 	</spell>
-<spell>
+	<spell>
 		<name>Web</name>
 		<level>2</level>
 		<school>C</school>
@@ -7401,6 +7458,21 @@
 		<roll>1d12</roll>
 	</spell>
 	<spell>
+		<name>Word of Radiance (XGE)</name>
+		<level>0</level>
+		<school>EV</school>
+		<time>1 action</time>
+		<range>5 feet</range>
+		<components>V, M (a holy symbol)</components>
+		<duration>Instantaneous</duration>
+		<classes>Cleric</classes>
+		<text>You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.</text>
+		<text />
+		<text>	The spellls damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
+		<text />
+		<text>This spell can be found in Xanathar's Guide to Everything</text>
+	</spell>
+<spell>
 		<name>Word of Recall</name>
 		<level>6</level>
 		<school>C</school>
