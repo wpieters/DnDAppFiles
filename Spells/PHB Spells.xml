@@ -138,7 +138,7 @@
 		<range>120 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Bard, Sorcerer, Wizard</classes>
+		<classes>Bard, Cleric (Forge), Sorcerer, Wizard</classes>
 		<text>Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.</text>
 		<text />
 		<text>As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.</text>
@@ -169,7 +169,7 @@
 		<range>Self (10-foot radius)</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 hour</duration>
-		<classes>Cleric (Death), Druid</classes>
+		<classes>Cleric (Death), Cleric (Grave), Druid</classes>
 		<text>A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs.</text>
 		<text />
 		<text>The barrier lasts for the duration. The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.</text>
@@ -392,7 +392,7 @@
 		<range>30 feet</range>
 		<components>V, S, M (a drop of blood)</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Bard, Cleric, Paladin (Vengeance)</classes>
+		<classes>Bard, Cleric, Cleric (Grave), Paladin (Vengeance)</classes>
 		<text>Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</text>
@@ -558,7 +558,7 @@
 		<range>30 feet</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Cleric (Death), Druid, Druid (Desert), Paladin (Oathbreaker), Sorcerer, Warlock, Wizard</classes>
+		<classes>Cleric (Death), Cleric (Grave), Druid, Druid (Desert), Paladin (Oathbreaker), Sorcerer, Warlock, Wizard</classes>
 		<text>Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.</text>
 		<text />
 		<text>If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.</text>
@@ -1342,7 +1342,7 @@
 		<range>30 feet</range>
 		<components>V, S, M (a tiny piece of matter of the same type of the item you plan to create)</components>
 		<duration>Special</duration>
-		<classes>Sorcerer, Wizard, Rogue (Arcane Trickster)</classes>
+		<classes>Cleric (Forge), Sorcerer, Wizard, Rogue (Arcane Trickster)</classes>
 		<text>You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range - soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.</text>
 		<text />
 		<text>The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.</text>
@@ -1461,7 +1461,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>8 hours</duration>
-		<classes>Artificer, Cleric, Cleric (Death), Cleric (Life), Paladin, Warlock (Undying)</classes>
+		<classes>Artificer, Cleric, Cleric (Death), Cleric (Grave), Cleric (Life), Paladin, Warlock (Undying)</classes>
 		<text>You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spells ends.</text>
 	</spell>
 	<spell>
@@ -1868,7 +1868,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 hour</duration>
-		<classes>Paladin, Warlock (Hexblade)</classes>
+		<classes>Cleric (Forge), Paladin, Warlock (Hexblade)</classes>
 		<text>A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types - acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.</text>
@@ -2031,7 +2031,7 @@
 		<range>120 feet</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Artificer, Wizard</classes>
+		<classes>Artificer, Cleric (Forge), Wizard</classes>
 		<text>You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.</text>
 		<text />
 		<text>Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.</text>
@@ -2059,7 +2059,7 @@
 		<range>Self</range>
 		<components>V, S, M (a small amount of alcohol or distilled spirits)</components>
 		<duration>1 hour</duration>
-		<classes>Artificer, Cleric (Death), Sorcerer, Warlock (Undying), Wizard</classes>
+		<classes>Artificer, Cleric (Grave), Cleric (Death), Sorcerer, Warlock (Undying), Wizard</classes>
 		<text>Bolstering yourself with a necromantic facsimile of life, you gain 1d4+4 temporary hit points for the duration.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.</text>
@@ -2496,7 +2496,7 @@
 		<range>Touch</range>
 		<components>V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)</components>
 		<duration>10 days</duration>
-		<classes>Cleric, Wizard</classes>
+		<classes>Cleric, Cleric (Grave), Wizard</classes>
 		<text>You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.</text>
 		<text />
 		<text>The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as raise dead.</text>
@@ -2853,7 +2853,7 @@
 		<range>60 feet</range>
 		<components>V, S, M (a piece of iron and a flame)</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Bard, Druid</classes>
+		<classes>Bard, Cleric (Forge), Druid</classes>
 		<text>Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.</text>
 		<text />
 		<text>If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.</text>
@@ -3022,7 +3022,7 @@
 		<range>Touch</range>
 		<components>V, S, M (a pearl worth at least 100 gp and an owl feather)</components>
 		<duration>Instantaneous</duration>
-		<classes>Bard, Cleric (Knowledge), Wizard</classes>
+		<classes>Bard, Cleric (Knowledge), Cleric (Forge), Wizard</classes>
 		<text>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.</text>
 		<text />
 		<text>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</text>
@@ -3456,7 +3456,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 hour</duration>
-		<classes>Artificer, Cleric (Arcana), Cleric (War), Paladin, Wizard</classes>
+		<classes>Artificer, Cleric (Arcana), Cleric (Forge), Cleric (War), Paladin, Wizard</classes>
 		<text>You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.</text>
@@ -4300,7 +4300,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 hour</duration>
-		<classes>Artificer, Cleric, Druid, Druid (Desert), Paladin (Ancients), Paladin (Vengeance), Ranger, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
+		<classes>Artificer, Cleric, Cleric (Forge), Druid, Druid (Desert), Paladin (Ancients), Paladin (Vengeance), Ranger, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
 		<text>For the duration, the willing creature you touch has resistance to one damage type of your choice - acid, cold, fire, lightning, or thunder.</text>
 	</spell>
 	<spell>
@@ -4349,7 +4349,7 @@
 		<range>Touch</range>
 		<components>V, S, M (a diamond worth at least 500 gp, which the spell consumes)</components>
 		<duration>Instantaneous</duration>
-		<classes>Bard, Cleric, Cleric (Life), Paladin</classes>
+		<classes>Bard, Cleric, Cleric (Grave), Cleric (Life), Paladin</classes>
 		<text>You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.</text>
 		<text />
 		<text>This spell also neutralizes any poison and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects, if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.</text>
@@ -4380,7 +4380,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Cleric (Death), Warlock, Wizard</classes>
+		<classes>Cleric (Death), Cleric (Grave), Warlock, Wizard</classes>
 		<text>A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.</text>
 		<text />
 		<text>At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.</text>
@@ -4529,7 +4529,7 @@
 		<range>Touch</range>
 		<components>V, S, M (diamonds worth 300 gp, which the spell consumes)</components>
 		<duration>Instantaneous</duration>
-		<classes>Artificer, Cleric, Cleric (Life), Paladin</classes>
+		<classes>Artificer, Cleric, Cleric (Grave), Cleric (Life), Paladin</classes>
 		<text>You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.</text>
 	</spell>
 	<spell>
@@ -4636,7 +4636,7 @@
 		<range>Self</range>
 		<components>V</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Paladin</classes>
+		<classes>Cleric (Forge), Paladin</classes>
 		<text>The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot above the 1st.</text>
@@ -5510,7 +5510,7 @@
 		<range>Self</range>
 		<components>V, S</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Cleric (Death), Warlock, Wizard</classes>
+		<classes>Cleric (Death), Cleric (Grave), Warlock, Wizard</classes>
 		<text>The touch of your shadow-wreathed hand can siphon force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.</text>
@@ -5542,7 +5542,7 @@
 		<range>120 feet</range>
 		<components>V, S, M (a small piece of phosphorus)</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Cleric (Light), Druid, Sorcerer, Warlock (Fiend), Wizard, Fighter (Eldritch Knight)</classes>
+		<classes>Cleric (Forge), Cleric (Light), Druid, Sorcerer, Warlock (Fiend), Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot think, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot think. The wall is opaque and lasts for the duration.</text>
 		<text />
 		<text>When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.</text>
