@@ -1513,14 +1513,21 @@
 			</feature>            
 			<feature optional="YES">
 				<name>College of Swords (XGE): Bonus Proficiencies</name>
-				<text>At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if something in the game lets you choose again.</text>
-				<text>  If you‘re proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your hard spells.</text>
+				<text>When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the scimitar.</text>
+				<text>  If you‘re proficient with a simple or martial melee weaponn, you can use it as a spellcasting focus for your bard spells.</text>
 			</feature>
 			<feature optional="YES">
 				<name>College of Swords (XGE): Fighting Style</name>
-				<text>The College of Blades emphasizes mastery with weapons, granting you access to the two-weapon fighting option for the Fighting Style class feature, which is as follows.</text>
-				<text>  Dueling: When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
-				<text>  Two-Weapon Fighting: When you engage in two weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
+				<text>At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Fighting Style: Dueling (College of Swords)</name>
+				<text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
+				<special>fighting style dueling</special>
+			</feature>
+			<feature optional="YES">
+				<name>Fighting Style: Two-Weapon Fighting (College of Swords)</name>
+				<text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
 			</feature>
 			<feature optional="YES">
 				<name>College of Swords (XGE): Blade Flourish</name>

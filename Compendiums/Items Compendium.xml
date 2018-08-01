@@ -4,7 +4,7 @@
 		<name>10 GP - Azurite</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque mottled deep blue gemstone worth 10 gp.</text>
 		<text />
@@ -14,7 +14,7 @@
 		<name>10 GP - Banded Agate</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>A translucent striped brown, blue, white, or red gemstone worth 10 gp.</text>
 		<text />
@@ -24,7 +24,7 @@
 		<name>10 GP - Blue Quartz</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>A transparent pale blue gemstone worth 10 gp.</text>
 		<text />
@@ -34,7 +34,7 @@
 		<name>10 GP - Eye Agate</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>A translucent circles of gray, white, brown, blue, or green gemstone worth 10 gp.</text>
 		<text />
@@ -44,7 +44,7 @@
 		<name>10 GP - Hematite</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque gray-black gemstone worth 10 gp.</text>
 		<text />
@@ -54,7 +54,7 @@
 		<name>10 GP - Lapis Lazuli</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque light and dark blue with yellow flecks gemstone worth 10 gp.</text>
 		<text />
@@ -64,7 +64,7 @@
 		<name>10 GP - Malachite</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque striated light and dark green gemstone worth 10 gp.</text>
 		<text />
@@ -74,7 +74,7 @@
 		<name>10 GP - Moss Agate</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>A translucent pink or yellow-white with mossy gray or green markings gemstone worth 10 gp.</text>
 		<text />
@@ -84,7 +84,7 @@
 		<name>10 GP - Obsidian</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque black gemstone worth 10 gp.</text>
 		<text />
@@ -94,7 +94,7 @@
 		<name>10 GP - Rhodochrosite</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque light pink gemstone worth 10 gp.</text>
 		<text />
@@ -104,7 +104,7 @@
 		<name>10 GP - Tiger Eye</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>A translucent brown with golden center gemstone worth 10 gp.</text>
 		<text />
@@ -114,7 +114,7 @@
 		<name>10 GP - Turquoise</name>
 		<type>$</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>0</weight>
 		<text>An opaque light blue-green gemstone worth 10 gp.</text>
 		<text />
@@ -124,7 +124,7 @@
 		<name>100 GP - Amber</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A transparent watery gold to rich gold gemstone worth 100 gp.</text>
 		<text />
@@ -134,7 +134,7 @@
 		<name>100 GP - Amethyst</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A transparent deep purple gemstone worth 100 gp.</text>
 		<text />
@@ -144,7 +144,7 @@
 		<name>100 GP - Chrysoberyl</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A transparent yellow-green to pale green gemstone worth 100 gp.</text>
 		<text />
@@ -154,7 +154,7 @@
 		<name>100 GP - Coral</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>An opaque crimson gemstone worth 100 gp.</text>
 		<text />
@@ -164,7 +164,7 @@
 		<name>100 GP - Garnet</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A transparent red, brown-green, or violet gemstone worth 100 gp.</text>
 		<text />
@@ -174,7 +174,7 @@
 		<name>100 GP - Jade</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A translucent light green, deep green, or white gemstone worth 100 gp.</text>
 		<text />
@@ -184,7 +184,7 @@
 		<name>100 GP - Jet</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>An opaque deep black gemstone worth 100 gp.</text>
 		<text />
@@ -194,7 +194,7 @@
 		<name>100 GP - Pearl</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>An opaque lustrous white, yellow, or pink gemstone worth 100 gp.</text>
 		<text />
@@ -204,7 +204,7 @@
 		<name>100 GP - Spinel</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A transparent red, red-brown, or deep green gemstone worth 100 gp.</text>
 		<text />
@@ -214,7 +214,7 @@
 		<name>100 GP - Tourmaline</name>
 		<type>$</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<weight>0</weight>
 		<text>A transparent pale green, blue, brown, or red gemstone worth 100 gp.</text>
 		<text />
@@ -224,7 +224,7 @@
 		<name>1000 GP - Black Opal</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A translucent dark green with black mottling and golden flecks gemstone worth 1000 gp.</text>
 		<text />
@@ -234,7 +234,7 @@
 		<name>1000 GP - Blue Sapphire</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A transparent blue-white to medium blue gemstone worth 1000 gp.</text>
 		<text />
@@ -244,7 +244,7 @@
 		<name>1000 GP - Emerald</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A transparent deep bright green gemstone worth 1000 gp.</text>
 		<text />
@@ -254,7 +254,7 @@
 		<name>1000 GP - Fire Opal</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A translucent fiery red gemstone worth 1000 gp.</text>
 		<text />
@@ -264,7 +264,7 @@
 		<name>1000 GP - Opal</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A translucent pale blue with green and golden mottling gemstone worth 1000 gp.</text>
 		<text />
@@ -274,7 +274,7 @@
 		<name>1000 GP - Star Ruby</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A translucent ruby with white star-shaped center gemstone worth 1000 gp.</text>
 		<text />
@@ -284,7 +284,7 @@
 		<name>1000 GP - Star Sapphire</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A translucent blue sapphire with white star-shaped center gemstone worth 1000 gp.</text>
 		<text />
@@ -294,7 +294,7 @@
 		<name>1000 GP - Yellow Sapphire</name>
 		<type>$</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>0</weight>
 		<text>A transparent fiery yellow or yellow-green gemstone worth 1000 gp.</text>
 		<text />
@@ -304,7 +304,7 @@
 		<name>25 GP - Black velvet mask stitched with silver thread</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -314,7 +314,7 @@
 		<name>25 GP - Carved bone statuette</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -324,7 +324,7 @@
 		<name>25 GP - Cloth-of-gold vestments</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -334,7 +334,7 @@
 		<name>25 GP - Copper chalice with silver filigree</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -344,7 +344,7 @@
 		<name>25 GP - Embroidered silk handkerchief</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -354,7 +354,7 @@
 		<name>25 GP - Gold locket with a painted portrait inside</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -364,7 +364,7 @@
 		<name>25 GP - Pair of engraved bone dice</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -374,7 +374,7 @@
 		<name>25 GP - Silver ewer</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -384,7 +384,7 @@
 		<name>25 GP - Small gold bracelet</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -394,7 +394,7 @@
 		<name>25 GP - Small mirror set in a painted wooden frame</name>
 		<type>$</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>0</weight>
 		<text>This art object is worth 25 gp.</text>
 		<text />
@@ -404,7 +404,7 @@
 		<name>250 GP - Box of turquoise animal figurines</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -414,7 +414,7 @@
 		<name>250 GP - Brass mug with jade inlay</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -424,7 +424,7 @@
 		<name>250 GP - Bronze crown</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -434,7 +434,7 @@
 		<name>250 GP - Carved ivory statuette</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -444,7 +444,7 @@
 		<name>250 GP - Gold bird cage with electrum filigree</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -454,7 +454,7 @@
 		<name>250 GP - Gold ring set with bloodstones</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -464,7 +464,7 @@
 		<name>250 GP - Large gold bracelet</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -474,7 +474,7 @@
 		<name>250 GP - Large well-made tapestry</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -484,7 +484,7 @@
 		<name>250 GP - Silk robe with gold embroidery</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -494,7 +494,7 @@
 		<name>250 GP - Silver necklace with a gemstone pendant</name>
 		<type>$</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>This art object is worth 250 gp.</text>
 		<text />
@@ -504,7 +504,7 @@
 		<name>2500 GP - A necklace string of small pink pearls</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -514,7 +514,7 @@
 		<name>2500 GP - Embroidered glove set with jewel chips</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -524,7 +524,7 @@
 		<name>2500 GP - Embroidered silk and velvet mantle set with numerous moonstones</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -534,7 +534,7 @@
 		<name>2500 GP - Eye patch with a mock eye set in blue sapphire and moonstone</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -544,7 +544,7 @@
 		<name>2500 GP - Fine gold chain set with a fire opal</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -554,7 +554,7 @@
 		<name>2500 GP - Gold circlet set with four aquamarines</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -564,7 +564,7 @@
 		<name>2500 GP - Gold music box</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -574,7 +574,7 @@
 		<name>2500 GP - Jeweled anklet</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -584,7 +584,7 @@
 		<name>2500 GP - Old masterpiece painting</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -594,7 +594,7 @@
 		<name>2500 GP - Platinum bracelet set with a sapphire</name>
 		<type>$</type>
         <magic />
-		<value>2500gp</value>
+		<value>2500</value>
 		<weight>0</weight>
 		<text>This art object is worth 2500 gp.</text>
 		<text />
@@ -604,7 +604,7 @@
 		<name>50 GP - Bloodstone</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>An opaque dark gray with red flecks gemstone worth 50 gp.</text>
 		<text />
@@ -614,7 +614,7 @@
 		<name>50 GP - Carnelian</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>An opaque orange to red-brown gemstone worth 50 gp.</text>
 		<text />
@@ -624,7 +624,7 @@
 		<name>50 GP - Chalcedony</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>An opaque white gemstone worth 50 gp.</text>
 		<text />
@@ -634,7 +634,7 @@
 		<name>50 GP - Chrysoprase</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>A translucent green gemstone worth 50 gp.</text>
 		<text />
@@ -644,7 +644,7 @@
 		<name>50 GP - Citrine</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>A transparent pale yellow-brown gemstone worth 50 gp.</text>
 		<text />
@@ -654,7 +654,7 @@
 		<name>50 GP - Jasper</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>An opaque blue, black, or brown gemstone worth 50 gp.</text>
 		<text />
@@ -664,7 +664,7 @@
 		<name>50 GP - Moonstone</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>A translucent white with pale blue glow gemstone worth 50 gp.</text>
 		<text />
@@ -674,7 +674,7 @@
 		<name>50 GP - Onyx</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>An opaque bands of black and white, or pure black or white gemstone worth 50 gp.</text>
 		<text />
@@ -684,7 +684,7 @@
 		<name>50 GP - Quartz</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>A transparent white, smoky gray, or yellow gemstone worth 50 gp.</text>
 		<text />
@@ -694,7 +694,7 @@
 		<name>50 GP - Sardonyx</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>An opaque bands of red and white gemstone worth 50 gp.</text>
 		<text />
@@ -704,7 +704,7 @@
 		<name>50 GP - Star rose quartz</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>A translucent rosy stone with white star-shaped center gemstone worth 50 gp.</text>
 		<text />
@@ -714,7 +714,7 @@
 		<name>50 GP - Zircon</name>
 		<type>$</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>0</weight>
 		<text>A transparent pale blue-green gemstone worth 50 gp.</text>
 		<text />
@@ -724,7 +724,7 @@
 		<name>500 GP - Alexandrite</name>
 		<type>$</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>A transparent dark green gemstone worth 500 gp.</text>
 		<text />
@@ -734,7 +734,7 @@
 		<name>500 GP - Aquamarine</name>
 		<type>$</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>A transparent pale blue-green gemstone worth 500 gp.</text>
 		<text />
@@ -744,7 +744,7 @@
 		<name>500 GP - Black Pearl</name>
 		<type>$</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>An opaque pure black gemstone worth 500 gp.</text>
 		<text />
@@ -754,7 +754,7 @@
 		<name>500 GP - Blue Spinel</name>
 		<type>$</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>A transparent deep blue gemstone worth 500 gp.</text>
 		<text />
@@ -764,7 +764,7 @@
 		<name>500 GP - Peridot</name>
 		<type>$</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>A transparent rich olive green gemstone worth 500 gp.</text>
 		<text />
@@ -774,7 +774,7 @@
 		<name>500 GP - Topaz</name>
 		<type>$</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>A transparent golden yellow gemstone worth 500 gp.</text>
 		<text />
@@ -784,7 +784,7 @@
 		<name>5000 GP - Black Sapphire</name>
 		<type>$</type>
         <magic />
-		<value>5000gp</value>
+		<value>5000</value>
 		<weight>0</weight>
 		<text>A translucent lustrous black with glowing highlights gemstone worth 5000 gp.</text>
 		<text />
@@ -794,7 +794,7 @@
 		<name>5000 GP - Diamond</name>
 		<type>$</type>
         <magic />
-		<value>5000gp</value>
+		<value>5000</value>
 		<weight>0</weight>
 		<text>A transparent blue-white, canary, pink, brown, or blue gemstone worth 5000 gp.</text>
 		<text />
@@ -804,7 +804,7 @@
 		<name>5000 GP - Jacinth</name>
 		<type>$</type>
         <magic />
-		<value>5000gp</value>
+		<value>5000</value>
 		<weight>0</weight>
 		<text>A transparent fiery orange gemstone worth 5000 gp.</text>
 		<text />
@@ -814,7 +814,7 @@
 		<name>5000 GP - Ruby</name>
 		<type>$</type>
         <magic />
-		<value>5000gp</value>
+		<value>5000</value>
 		<weight>0</weight>
 		<text>A transparent clear red to deep crimson gemstone worth 5000 gp.</text>
 		<text />
@@ -824,7 +824,7 @@
 		<name>750 GP - Bottle stopper cork embossed with gold leaf and set with amethysts</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -834,7 +834,7 @@
 		<name>750 GP - Carved harp of exotic wood with ivory inlay and zircon gems</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -844,7 +844,7 @@
 		<name>750 GP - Ceremonial electrum dagger with a black pearl in the pommel</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -854,7 +854,7 @@
 		<name>750 GP - Gold dragon comb set with red garnets as eyes</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -864,7 +864,7 @@
 		<name>750 GP - Obsidian statuette with gold fittings and inlay</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -874,7 +874,7 @@
 		<name>750 GP - Painted gold war mask</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -884,7 +884,7 @@
 		<name>750 GP - Silver and gold brooch</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -894,7 +894,7 @@
 		<name>750 GP - Silver chalice set with moonstones</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -904,7 +904,7 @@
 		<name>750 GP - Silver-plated steel longsword with jet set in hilt</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -914,7 +914,7 @@
 		<name>750 GP - Small gold idol</name>
 		<type>$</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>0</weight>
 		<text>This art object is worth 750 gp.</text>
 		<text />
@@ -924,7 +924,7 @@
 		<name>7500 GP - Bejeweled ivory drinking horn with gold filigree</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -934,7 +934,7 @@
 		<name>7500 GP - Gold cup set with emeralds</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -944,7 +944,7 @@
 		<name>7500 GP - Gold jewelry box with platinum filigree</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -954,7 +954,7 @@
 		<name>7500 GP - Jade game board with solid gold playing pieces</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -964,7 +964,7 @@
 		<name>7500 GP - Jeweled gold crown</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -974,7 +974,7 @@
 		<name>7500 GP - Jeweled platinum ring</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -984,7 +984,7 @@
 		<name>7500 GP - Painted gold child's sarcophagus</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -994,7 +994,7 @@
 		<name>7500 GP - Small gold statuette set with rubies</name>
 		<type>$</type>
         <magic />
-		<value>7500gp</value>
+		<value>7500</value>
 		<weight>0</weight>
 		<text>This art object is worth 7500 gp.</text>
 		<text />
@@ -1004,7 +1004,7 @@
 		<name>Abacus</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>2</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -1012,7 +1012,7 @@
 		<name>Acid (vial)</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>1</weight>
 		<text>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</text>
 		<text />
@@ -1138,7 +1138,7 @@
 		<name>Alchemist's Fire (flask)</name>
 		<type>G</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>1</weight>
 		<text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</text>
 		<text />
@@ -1148,7 +1148,7 @@
 		<name>Alchemist's Supplies</name>
 		<type>G</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>8</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -1248,7 +1248,7 @@
 		<name>Antitoxin</name>
 		<type>G</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<text>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
@@ -1393,7 +1393,7 @@
 		<name>Arrows</name>
 		<type>A</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>0.05</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -1403,7 +1403,7 @@
 		<name>Arrows (20)</name>
 		<type>A</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>1</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -1452,7 +1452,7 @@
 		<name>Assassin's Blood (Ingested)</name>
 		<type>G</type>
         <magic />
-		<value>150gp</value>
+		<value>150</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned.</text>
 		<text />
@@ -1499,7 +1499,7 @@
 		<name>Backpack</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>5</weight>
 		<text>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</text>
 		<text />
@@ -1641,7 +1641,7 @@
 		<name>Bagpipes</name>
 		<type>G</type>
         <magic />
-		<value>30gp</value>
+		<value>30</value>
 		<weight>6</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -1703,7 +1703,7 @@
 		<name>Barrel</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>70</weight>
 		<text>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</text>
 		<text />
@@ -1713,7 +1713,7 @@
 		<name>Basic Poison (vial)</name>
 		<type>G</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<text>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
@@ -1722,7 +1722,7 @@
 		<name>Basket</name>
 		<type>G</type>
         <magic />
-		<value>4sp</value>
+		<value>0.4</value>
 		<weight>2</weight>
 		<text>A basket holds 2 cubic feet or 40 pounds of gear.</text>
 		<text />
@@ -1732,7 +1732,7 @@
 		<name>Battleaxe</name>
 		<type>M</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>4</weight>
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
@@ -1835,7 +1835,7 @@
 		<name>Bedroll</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>7</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -1843,7 +1843,7 @@
 		<name>Bell</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
@@ -2087,7 +2087,7 @@
 		<name>Blanket</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<weight>3</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -2095,7 +2095,7 @@
 		<name>Block and Tackle</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>5</weight>
 		<text>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.</text>
 		<text />
@@ -2135,7 +2135,7 @@
 		<name>Blowgun</name>
 		<type>R</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>1</weight>
 		<dmg1>1</dmg1>
 		<dmgType>P</dmgType>
@@ -2240,7 +2240,7 @@
 		<name>Blowgun Needles</name>
 		<type>A</type>
         <magic />
-		<value>2cp</value>
+		<value>0.02</value>
 		<weight>0.02</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -2250,7 +2250,7 @@
 		<name>Blowgun Needles (50)</name>
 		<type>A</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>1</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -2362,7 +2362,7 @@
 		<name>Book</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>5</weight>
 		<text>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).</text>
 		<text />
@@ -2578,7 +2578,7 @@
 		<name>Breastplate</name>
 		<type>MA</type>
         <magic />
-		<value>400gp</value>
+		<value>400</value>
 		<weight>20</weight>
 		<ac>14</ac>
 		<text>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.</text>
@@ -2758,7 +2758,7 @@
 		<name>Brewer's Supplies</name>
 		<type>G</type>
         <magic />
-		<value>20gp</value>
+		<value>20</value>
 		<weight>9</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -2808,7 +2808,7 @@
 		<name>Bucket</name>
 		<type>G</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>2</weight>
 		<text>A bucket holds 3 gallons of liquid or 1/2 cubic foot of solids.</text>
 		<text />
@@ -2818,7 +2818,7 @@
 		<name>Bullseye Lantern</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>2</weight>
 		<text>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
 		<text />
@@ -2828,7 +2828,7 @@
 		<name>Burglar's Pack</name>
 		<type>G</type>
         <magic />
-		<value>16gp</value>
+		<value>16</value>
 		<weight>44.5</weight>
 		<text>Includes:</text>
 		<text />
@@ -2866,7 +2866,7 @@
 		<name>Burnt Othur Fumes (Inhaled)</name>
 		<type>G</type>
         <magic />
-		<value>500gp</value>
+		<value>500</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.</text>
 		<text />
@@ -2878,7 +2878,7 @@
 		<name>Calligrapher's Supplies</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -2888,7 +2888,7 @@
 		<name>Caltrops</name>
 		<type>G</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>0.1</weight>
 		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
@@ -2898,7 +2898,7 @@
 		<name>Caltrops (20)</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>2</weight>
 		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
@@ -2908,7 +2908,7 @@
 		<name>Candle</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
@@ -2965,7 +2965,7 @@
 		<name>Carpenter's Tools</name>
 		<type>G</type>
         <magic />
-		<value>8gp</value>
+		<value>8</value>
 		<weight>6</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -3019,7 +3019,7 @@
 		<name>Carrion Crawler Mucus (Contact)</name>
 		<type>G</type>
         <magic />
-		<value>200gp</value>
+		<value>200</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
 		<text />
@@ -3029,7 +3029,7 @@
 		<name>Cartographer's Tools</name>
 		<type>G</type>
         <magic />
-		<value>15gp</value>
+		<value>15</value>
 		<weight>6</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -3051,7 +3051,7 @@
 		<name>Chain (10 feet)</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>10</weight>
 		<text>A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.</text>
 		<text />
@@ -3061,7 +3061,7 @@
 		<name>Chain Mail</name>
 		<type>HA</type>
         <magic />
-		<value>75gp</value>
+		<value>75</value>
 		<weight>55</weight>
 		<ac>16</ac>
 		<strength>13</strength>
@@ -3269,7 +3269,7 @@
 		<name>Chain Shirt</name>
 		<type>MA</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>20</weight>
 		<ac>13</ac>
 		<text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.</text>
@@ -3449,14 +3449,14 @@
 		<name>Chalk (1 piece)</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
 		<name>Chest</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>25</weight>
 		<text>A chest holds 12 cubic feet or 300 pounds of gear.</text>
 		<text />
@@ -3515,7 +3515,7 @@
 		<name>Climber's Kit</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>12</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -3615,7 +3615,7 @@
 		<name>Club</name>
 		<type>M</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
@@ -3699,7 +3699,7 @@
 		<name>Cobbler's Tools</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -3709,7 +3709,7 @@
 		<name>Common Clothes</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<weight>3</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -3717,7 +3717,7 @@
 		<name>Component Pouch</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>2</weight>
 		<text>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</text>
 		<text />
@@ -3740,7 +3740,7 @@
 		<name>Cook's Utensils</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>8</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -3750,7 +3750,7 @@
 		<name>Copper (cp)</name>
 		<type>$</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -3786,7 +3786,7 @@
 		<name>Costume Clothes</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -3794,7 +3794,7 @@
 		<name>Crossbow Bolt Case</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>1</weight>
 		<text>This wooden case can hold up to twenty crossbow bolts.</text>
 		<text />
@@ -3817,7 +3817,7 @@
 		<name>Crossbow Bolts</name>
 		<type>A</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>0.075</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -3827,7 +3827,7 @@
 		<name>Crossbow Bolts (20)</name>
 		<type>A</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>1.5</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -3876,7 +3876,7 @@
 		<name>Crowbar</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>5</weight>
 		<text>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</text>
 		<text />
@@ -3886,7 +3886,7 @@
 		<name>Crystal</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>1</weight>
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
@@ -4010,7 +4010,7 @@
 		<name>Dagger</name>
 		<type>M</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>1</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>P</dmgType>
@@ -4258,7 +4258,7 @@
 		<name>Dart</name>
 		<type>R</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>0.25</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>P</dmgType>
@@ -4700,7 +4700,7 @@
 		<name>Dice Set</name>
 		<type>G</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
@@ -4720,7 +4720,7 @@
 		<name>Diplomat's Pack</name>
 		<type>G</type>
         <magic />
-		<value>39gp</value>
+		<value>39</value>
 		<weight>36</weight>
 		<text>Includes:</text>
 		<text />
@@ -4752,7 +4752,7 @@
 		<name>Disguise Kit</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>3</weight>
 		<text>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</text>
 		<text />
@@ -4883,7 +4883,7 @@
 		<name>Dragonchess Set</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>0.5</weight>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
@@ -4931,7 +4931,7 @@
 		<name>Drow Poison (Injury)</name>
 		<type>G</type>
         <magic />
-		<value>200gp</value>
+		<value>200</value>
 		<weight>0</weight>
 		<text>This poison is typically made only by the draw, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
 		<text />
@@ -4973,7 +4973,7 @@
 		<name>Drum</name>
 		<type>G</type>
         <magic />
-		<value>6gp</value>
+		<value>6</value>
 		<weight>3</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -4987,7 +4987,7 @@
 		<name>Dulcimer</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>10</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -5001,7 +5001,7 @@
 		<name>Dungeoneer's Pack</name>
 		<type>G</type>
         <magic />
-		<value>12gp</value>
+		<value>12</value>
 		<weight>61.5</weight>
 		<text>Includes:</text>
 		<text />
@@ -5228,7 +5228,7 @@
 		<name>Entertainer's Pack</name>
 		<type>G</type>
         <magic />
-		<value>40gp</value>
+		<value>40</value>
 		<weight>38</weight>
 		<text>Includes:</text>
 		<text />
@@ -5252,7 +5252,7 @@
 		<name>Essence of Ether (Inhaled)</name>
 		<type>G</type>
         <magic />
-		<value>300gp</value>
+		<value>300</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
 		<text />
@@ -5274,7 +5274,7 @@
 		<name>Explorer's Pack</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>59</weight>
 		<text>Includes:</text>
 		<text />
@@ -5506,7 +5506,7 @@
 		<name>Fine Clothes</name>
 		<type>G</type>
         <magic />
-		<value>15gp</value>
+		<value>15</value>
 		<weight>6</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -5514,7 +5514,7 @@
 		<name>Fishing Tackle</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>4</weight>
 		<text>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</text>
 		<text />
@@ -5524,7 +5524,7 @@
 		<name>Flail</name>
 		<type>M</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>B</dmgType>
@@ -5690,7 +5690,7 @@
 		<name>Flask</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<weight>1</weight>
 		<text>A flask holds 1 pint of liquid.</text>
 		<text />
@@ -5700,7 +5700,7 @@
 		<name>Flute</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>1</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -5729,7 +5729,7 @@
 		<name>Forgery Kit</name>
 		<type>G</type>
         <magic />
-		<value>15gp</value>
+		<value>15</value>
 		<weight>5</weight>
 		<text>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</text>
 		<text />
@@ -6077,7 +6077,7 @@
 		<name>Glaive</name>
 		<type>M</type>
         <magic />
-		<value>20gp</value>
+		<value>20</value>
 		<weight>6</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>S</dmgType>
@@ -6194,7 +6194,7 @@
 		<name>Glass Bottle</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>2</weight>
 		<text>A bottle holds 1 1/2 pints of liquid.</text>
 		<text />
@@ -6204,7 +6204,7 @@
 		<name>Glassblower's Tools</name>
 		<type>G</type>
         <magic />
-		<value>30gp</value>
+		<value>30</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -6259,7 +6259,7 @@
 		<name>Gold (gp)</name>
 		<type>$</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -6295,7 +6295,7 @@
 		<name>Grappling Hook</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -6303,7 +6303,7 @@
 		<name>Greataxe</name>
 		<type>M</type>
         <magic />
-		<value>30gp</value>
+		<value>30</value>
 		<weight>7</weight>
 		<dmg1>1d12</dmg1>
 		<dmgType>S</dmgType>
@@ -6397,7 +6397,7 @@
 		<name>Greatclub</name>
 		<type>M</type>
         <magic />
-		<value>2sp</value>
+		<value>0.2</value>
 		<weight>10</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>B</dmgType>
@@ -6481,7 +6481,7 @@
 		<name>Greatsword</name>
 		<type>M</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>6</weight>
 		<dmg1>2d6</dmg1>
 		<dmgType>S</dmgType>
@@ -6742,7 +6742,7 @@
 		<name>Halberd</name>
 		<type>M</type>
         <magic />
-		<value>20gp</value>
+		<value>20</value>
 		<weight>6</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>S</dmgType>
@@ -6844,7 +6844,7 @@
 		<name>Half Plate</name>
 		<type>MA</type>
         <magic />
-		<value>750gp</value>
+		<value>750</value>
 		<weight>40</weight>
 		<ac>15</ac>
 		<stealth>YES</stealth>
@@ -7038,7 +7038,7 @@
 		<name>Hammer</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>3</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -7072,7 +7072,7 @@
 		<name>Hand Crossbow</name>
 		<type>R</type>
         <magic />
-		<value>75gp</value>
+		<value>75</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -7230,7 +7230,7 @@
 		<name>Handaxe</name>
 		<type>M</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>S</dmgType>
@@ -7392,7 +7392,7 @@
 		<name>Healer's Kit</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>3</weight>
 		<text>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</text>
 		<text />
@@ -7402,7 +7402,7 @@
 		<name>Heavy Crossbow</name>
 		<type>R</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>18</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>P</dmgType>
@@ -7605,7 +7605,7 @@
 		<name>Hempen Rope (50 feet)</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>10</weight>
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
@@ -7615,7 +7615,7 @@
 		<name>Herbalism Kit</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>3</weight>
 		<text>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</text>
 		<text />
@@ -7639,7 +7639,7 @@
 		<name>Hide Armor</name>
 		<type>MA</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>12</weight>
 		<ac>12</ac>
 		<text>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</text>
@@ -7931,7 +7931,7 @@
 		<name>Holy Symbol (Amulet)</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>1</weight>
 		<text>A holy symbol is a representation of a god or pantheon</text>
 		<text />
@@ -7943,7 +7943,7 @@
 		<name>Holy Symbol (Emblem)</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<text>A holy symbol is a representation of a god or pantheon</text>
 		<text />
 		<text>A cleric or paladin can use a holy symbol as a spellcasting focus, using it in place of any material components which do not list a cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</text>
@@ -7954,7 +7954,7 @@
 		<name>Holy Symbol (Reliquary)</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>2</weight>
 		<text>A holy symbol is a representation of a god or pantheon</text>
 		<text />
@@ -7985,7 +7985,7 @@
 		<name>Holy Water (flask)</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>1</weight>
 		<text>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.\n\tA cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</text>
 		<text />
@@ -7995,7 +7995,7 @@
 		<name>Hooded Lantern</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>2</weight>
 		<text>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</text>
 		<text />
@@ -8005,7 +8005,7 @@
 		<name>Horn</name>
 		<type>G</type>
         <magic />
-		<value>3gp</value>
+		<value>3</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -8108,7 +8108,7 @@
 		<name>Hourglass</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>1</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -8116,7 +8116,7 @@
 		<name>Hunting Trap</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>25</weight>
 		<text>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</text>
 		<text />
@@ -8173,14 +8173,14 @@
     </item>
     <item>
 		<name>Ink (1 ounce bottle)</name>
-		<value>10gp</value>
+		<value>10</value>
 		<type>G</type>
         <magic />
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
 		<name>Ink Pen</name>
-		<value>2cp</value>
+		<value>0.02</value>
 		<type>G</type>
         <magic />
 		<text>Source: Player's Handbook, page 150</text>
@@ -8627,7 +8627,7 @@
 		<name>Iron Pot</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>10</weight>
 		<text>An iron pot holds 1 gallon of liquid.</text>
 		<text />
@@ -8637,7 +8637,7 @@
 		<name>Iron Spikes</name>
 		<type>G</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<weight>0.5</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -8645,7 +8645,7 @@
 		<name>Iron Spikes (10)</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>5</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -8680,7 +8680,7 @@
 		<name>Javelin</name>
 		<type>M</type>
         <magic />
-		<value>2sp</value>
+		<value>0.2</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -8800,7 +8800,7 @@
 		<name>Jeweler's Tools</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>2</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -8810,7 +8810,7 @@
 		<name>Jug</name>
 		<type>G</type>
         <magic />
-		<value>2cp</value>
+		<value>0.02</value>
 		<weight>4</weight>
 		<text>A jug holds 1 gallon of liquid.</text>
 		<text />
@@ -8857,7 +8857,7 @@
 		<name>Ladder (10-foot)</name>
 		<type>G</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<weight>25</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -8865,7 +8865,7 @@
 		<name>Lamp</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<weight>1</weight>
 		<text>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
 		<text />
@@ -8875,7 +8875,7 @@
 		<name>Lance</name>
 		<type>M</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>6</weight>
 		<dmg1>1d12</dmg1>
 		<dmgType>P</dmgType>
@@ -8972,7 +8972,7 @@
 		<name>Leather Armor</name>
 		<type>LA</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>10</weight>
 		<ac>11</ac>
 		<text>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</text>
@@ -9152,7 +9152,7 @@
 		<name>Leatherworker's Tools</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -9162,7 +9162,7 @@
 		<name>Light Crossbow</name>
 		<type>R</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>5</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -9287,7 +9287,7 @@
 		<name>Light Hammer</name>
 		<type>M</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
@@ -9409,7 +9409,7 @@
 		<name>Lock</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>1</weight>
 		<text>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.</text>
 		<text />
@@ -9419,7 +9419,7 @@
 		<name>Longbow</name>
 		<type>R</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -9544,7 +9544,7 @@
 		<name>Longsword</name>
 		<type>M</type>
         <magic />
-		<value>15gp</value>
+		<value>15</value>
 		<weight>3</weight>
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
@@ -9856,7 +9856,7 @@
 		<name>Lute</name>
 		<type>G</type>
         <magic />
-		<value>35gp</value>
+		<value>35</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -9870,7 +9870,7 @@
 		<name>Lyre</name>
 		<type>G</type>
         <magic />
-		<value>30gp</value>
+		<value>30</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -9884,7 +9884,7 @@
 		<name>Mace</name>
 		<type>M</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>4</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>B</dmgType>
@@ -10001,7 +10001,7 @@
 		<name>Magnifying Glass</name>
 		<type>G</type>
         <magic />
-		<value>100gp</value>
+		<value>100</value>
 		<text>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
@@ -10010,7 +10010,7 @@
 		<name>Malice (Inhaled)</name>
 		<type>G</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.</text>
 		<text />
@@ -10020,7 +10020,7 @@
 		<name>Manacles</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>6</weight>
 		<text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</text>
 		<text />
@@ -10123,7 +10123,7 @@
 		<name>Map or Scroll Case</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>1</weight>
 		<text>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</text>
 		<text />
@@ -10309,7 +10309,7 @@
 		<name>Mason's Tools</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>8</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -10319,7 +10319,7 @@
 		<name>Maul</name>
 		<type>M</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>10</weight>
 		<dmg1>2d6</dmg1>
 		<dmgType>B</dmgType>
@@ -10428,7 +10428,7 @@
 		<name>Merchant's Scale</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>3</weight>
 		<text>A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.</text>
 		<text />
@@ -10438,7 +10438,7 @@
 		<name>Mess Kit</name>
 		<type>G</type>
         <magic />
-		<value>2sp</value>
+		<value>0.2</value>
 		<weight>1</weight>
 		<text>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</text>
 		<text />
@@ -10448,7 +10448,7 @@
 		<name>Midnight Tears (Ingested)</name>
 		<type>G</type>
         <magic />
-		<value>1500gp</value>
+		<value>1500</value>
 		<weight>0</weight>
 		<text>A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -10637,7 +10637,7 @@
 		<name>Miner's Pick</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>10</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -10779,7 +10779,7 @@
         <name>Monster Hunter's Pack</name>
         <type>G</type>
         <magic />
-        <value>33gp</value>
+        <value>33</value>
 		<weight>48.5</weight>
         <text>Includes:</text>
         <text>   • a chest</text>
@@ -10847,7 +10847,7 @@
 		<name>Morningstar</name>
 		<type>M</type>
         <magic />
-		<value>15gp</value>
+		<value>15</value>
 		<weight>4</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -10933,7 +10933,7 @@
 		<name>Navigator's Tools</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>2</weight>
 		<text>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</text>
 		<text />
@@ -10991,7 +10991,7 @@
 		<name>Net</name>
 		<type>R</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>3</weight>
 		<property>S,T</property>
 		<range>5/15</range>
@@ -11255,7 +11255,7 @@
 		<name>Oil (flask)</name>
 		<type>G</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<weight>1</weight>
 		<text>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</text>
 		<text />
@@ -11299,7 +11299,7 @@
 		<name>Oil of Taggit (Contact)</name>
 		<type>G</type>
         <magic />
-		<value>400gp</value>
+		<value>400</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.</text>
 		<text />
@@ -11327,7 +11327,7 @@
 		<name>Orb</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>3</weight>
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
@@ -11407,7 +11407,7 @@ tance to all damage dealt by ranged weapon attacks.</text>
 		<name>Padded Armor</name>
 		<type>LA</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>8</weight>
 		<ac>11</ac>
 		<stealth>YES</stealth>
@@ -11601,7 +11601,7 @@ tance to all damage dealt by ranged weapon attacks.</text>
 		<name>Painter's Supplies</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -11611,7 +11611,7 @@ tance to all damage dealt by ranged weapon attacks.</text>
 		<name>Pale Tincture (Ingested)</name>
 		<type>G</type>
         <magic />
-		<value>250gp</value>
+		<value>250</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.</text>
 		<text />
@@ -11622,7 +11622,7 @@ tance to all damage dealt by ranged weapon attacks.</text>
 		<name>Pan Flute</name>
 		<type>G</type>
         <magic />
-		<value>12gp</value>
+		<value>12</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -11636,14 +11636,14 @@ tance to all damage dealt by ranged weapon attacks.</text>
 		<name>Paper (one sheet)</name>
 		<type>G</type>
         <magic />
-		<value>2sp</value>
+		<value>0.2</value>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
 		<name>Parchment (one sheet)</name>
 		<type>G</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
@@ -11682,7 +11682,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Perfume (vial)</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
@@ -11735,7 +11735,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Pike</name>
 		<type>M</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>18</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>P</dmgType>
@@ -11867,7 +11867,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Pitcher</name>
 		<type>G</type>
         <magic />
-		<value>2cp</value>
+		<value>0.02</value>
 		<weight>4</weight>
 		<text>A pitcher holds 1 gallon of liquid.</text>
 		<text />
@@ -11877,7 +11877,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Piton</name>
 		<type>G</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>0.25</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -11907,7 +11907,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Plate Armor</name>
 		<type>HA</type>
         <magic />
-		<value>1500gp</value>
+		<value>1500</value>
 		<weight>65</weight>
 		<ac>18</ac>
 		<strength>15</strength>
@@ -12150,7 +12150,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Playing Card Set</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
@@ -12159,7 +12159,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Poisoner's Kit</name>
 		<type>G</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>2</weight>
 		<text>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</text>
 		<text />
@@ -12169,7 +12169,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Pole (10-foot)</name>
 		<type>G</type>
         <magic />
-		<value>5cp</value>
+		<value>0.05</value>
 		<weight>7</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -12191,7 +12191,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Portable Ram</name>
 		<type>G</type>
         <magic />
-		<value>4gp</value>
+		<value>4</value>
 		<weight>35</weight>
 		<text>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</text>
 		<text />
@@ -12652,7 +12652,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Potter's Tools</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>3</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -12662,7 +12662,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Pouch</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<weight>1</weight>
 		<text>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch. A pouch can hold up to 1/5 cubic foot or 6 pounds of gear.</text>
 		<text />
@@ -12672,7 +12672,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Priest's Pack</name>
 		<type>G</type>
         <magic />
-		<value>19gp</value>
+		<value>19</value>
 		<weight>24</weight>
 		<text>Includes:</text>
 		<text />
@@ -12702,7 +12702,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Purple Worm Poison (Injury)</name>
 		<type>G</type>
         <magic />
-		<value>2000gp</value>
+		<value>2000</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -12788,7 +12788,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Quarterstaff</name>
 		<type>M</type>
         <magic />
-		<value>2sp</value>
+		<value>0.2</value>
 		<weight>4</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -12877,7 +12877,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Quiver</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>1</weight>
 		<text>A quiver can hold up to 20 arrows.</text>
 		<text />
@@ -12899,7 +12899,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Rapier</name>
 		<type>M</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -13042,7 +13042,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Rations (1 day)</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<weight>2</weight>
 		<text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</text>
 		<text />
@@ -13092,7 +13092,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Ring Mail</name>
 		<type>HA</type>
         <magic />
-		<value>30gp</value>
+		<value>30</value>
 		<weight>40</weight>
 		<ac>14</ac>
 		<stealth>YES</stealth>
@@ -13873,7 +13873,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Robes</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -13881,7 +13881,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Rod</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>2</weight>
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
@@ -14083,7 +14083,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Sack</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<weight>0.5</weight>
 		<text>A sack can hold up to 1 cubic foot or 30 pounds of gear.</text>
 		<text />
@@ -14125,7 +14125,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Scale Mail</name>
 		<type>MA</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>45</weight>
 		<ac>14</ac>
 		<stealth>YES</stealth>
@@ -14333,7 +14333,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Scholar's Pack</name>
 		<type>G</type>
         <magic />
-		<value>40gp</value>
+		<value>40</value>
 		<weight>10</weight>
 		<text>Includes:</text>
 		<text />
@@ -14357,7 +14357,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Scimitar</name>
 		<type>M</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>S</dmgType>
@@ -14636,7 +14636,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
   </item>
   <item>
 		<name>Sealing Wax</name>
-		<value>5sp</value>
+		<value>0.5</value>
 		<type>G</type>
         <magic />
 		<text>Source: Player's Handbook, page 150</text>
@@ -14691,7 +14691,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Serpent Venom (Injury)</name>
 		<type>G</type>
         <magic />
-		<value>200gp</value>
+		<value>200</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -14739,7 +14739,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Shawm</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>1</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -14753,7 +14753,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Shield</name>
 		<type>S</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>6</weight>
 		<ac>2</ac>
 		<text>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</text>
@@ -14833,7 +14833,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Shortbow</name>
 		<type>R</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -14948,7 +14948,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Shortsword</name>
 		<type>M</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -15107,7 +15107,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Shovel</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>5</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -15115,7 +15115,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Sickle</name>
 		<type>M</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>S</dmgType>
@@ -15197,14 +15197,14 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
   </item>
   <item>
 		<name>Signal Whistle</name>
-		<value>5cp</value>
+		<value>0.05</value>
 		<type>G</type>
         <magic />
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
 		<name>Signet Ring</name>
-		<value>5gp</value>
+		<value>5</value>
 		<type>G</type>
         <magic />
 		<text>Source: Player's Handbook, page 150</text>
@@ -15213,7 +15213,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Silk Rope (50 feet)</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>5</weight>
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
@@ -15223,7 +15223,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Silver (sp)</name>
 		<type>$</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -15257,7 +15257,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
   </item>
   <item>
 		<name>Sledge Hammer</name>
-		<value>2gp</value>
+		<value>2</value>
 		<type>G</type>
         <magic />
 		<weight>10</weight>
@@ -15267,7 +15267,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Sling</name>
 		<type>R</type>
         <magic />
-		<value>1sp</value>
+		<value>0.1</value>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
 		<property>A</property>
@@ -15373,7 +15373,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Sling Bullets (20)</name>
 		<type>A</type>
         <magic />
-		<value>4cp</value>
+		<value>0.04</value>
 		<weight>1.5</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -15455,7 +15455,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Smith's Tools</name>
 		<type>G</type>
         <magic />
-		<value>20gp</value>
+		<value>20</value>
 		<weight>8</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -15465,7 +15465,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Soap</name>
 		<type>G</type>
         <magic />
-		<value>2cp</value>
+		<value>0.02</value>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
 	<item>
@@ -15483,7 +15483,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Spear</name>
 		<type>M</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -15907,7 +15907,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Spellbook</name>
 		<type>G</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>3</weight>
 		<text>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.</text>
 		<text />
@@ -15964,7 +15964,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Spiked Armor</name>
 		<type>MA</type>
         <magic />
-		<value>75gp</value>
+		<value>75</value>
 		<weight>45</weight>
 		<ac>14</ac>
 		<stealth>YES</stealth>
@@ -16134,7 +16134,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Splint Armor</name>
 		<type>HA</type>
         <magic />
-		<value>200gp</value>
+		<value>200</value>
 		<weight>60</weight>
 		<ac>17</ac>
 		<strength>15</strength>
@@ -16342,7 +16342,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Sprig of Mistletoe</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
@@ -16351,7 +16351,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Spyglass</name>
 		<type>G</type>
         <magic />
-		<value>1000gp</value>
+		<value>1000</value>
 		<weight>1</weight>
 		<text>Objects viewed through a spyglass are magnified to twice their size.</text>
 		<text />
@@ -16361,7 +16361,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Staff</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>4</weight>
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
@@ -16641,7 +16641,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Steel Mirror</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>0.5</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -16701,7 +16701,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Studded Leather Armor</name>
 		<type>LA</type>
         <magic />
-		<value>45gp</value>
+		<value>45</value>
 		<weight>13</weight>
 		<ac>12</ac>
 		<text>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</text>
@@ -17211,7 +17211,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Tankard</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<text>A tankard holds 1 pint of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
@@ -17235,7 +17235,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Thieves' Tools</name>
 		<type>G</type>
         <magic />
-		<value>25gp</value>
+		<value>25</value>
 		<weight>1</weight>
 		<text>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</text>
 		<text />
@@ -17245,7 +17245,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Three-Dragon Ante Set</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
@@ -17254,7 +17254,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Tinderbox</name>
 		<type>G</type>
         <magic />
-		<value>5sp</value>
+		<value>0.5</value>
 		<weight>1</weight>
 		<text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch - or anything else with abundant, exposed fuel - takes an action. Lighting any other fire takes 1 minute.</text>
 		<text />
@@ -17297,7 +17297,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Tinker's Tools</name>
 		<type>G</type>
         <magic />
-		<value>50gp</value>
+		<value>50</value>
 		<weight>10</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -17365,7 +17365,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Torch</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<weight>1</weight>
 		<text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</text>
 		<text />
@@ -17375,7 +17375,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Torpor (Ingested)</name>
 		<type>G</type>
         <magic />
-		<value>600gp</value>
+		<value>600</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.</text>
 		<text />
@@ -17386,7 +17386,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Totem</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
@@ -17395,7 +17395,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Traveler's Clothes</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -17403,7 +17403,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Trident</name>
 		<type>M</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>4</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -17760,7 +17760,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Truth Serum (Ingested)</name>
 		<type>G</type>
         <magic />
-		<value>150gp</value>
+		<value>150</value>
 		<weight>0</weight>
 		<text>A creature subjected to thi poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.</text>
 		<text />
@@ -17770,7 +17770,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Two-Person Tent</name>
 		<type>G</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>20</weight>
 		<text>A simple and portable canvas shelter, a tent sleeps two.</text>
 		<text />
@@ -17790,7 +17790,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Vial</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<text>A vial can hold up to 4 ounces of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
@@ -18479,7 +18479,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Viol</name>
 		<type>G</type>
         <magic />
-		<value>30gp</value>
+		<value>30</value>
 		<weight>1</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -18561,7 +18561,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Wand</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>1</weight>
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
@@ -18912,7 +18912,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>War Pick</name>
 		<type>M</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -18981,7 +18981,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Warhammer</name>
 		<type>M</type>
         <magic />
-		<value>15gp</value>
+		<value>15</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
@@ -19070,7 +19070,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Waterskin</name>
 		<type>G</type>
         <magic />
-		<value>2sp</value>
+		<value>0.2</value>
 		<weight>5</weight>
 		<text>A waterskin can hold up to 4 pints of liquid.</text>
 		<text />
@@ -19132,7 +19132,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Weaver's Tools</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -19194,7 +19194,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Whetstone</name>
 		<type>G</type>
         <magic />
-		<value>1cp</value>
+		<value>0.01</value>
 		<weight>1</weight>
 		<text>Source: Player's Handbook, page 150</text>
 	</item>
@@ -19202,7 +19202,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Whip</name>
 		<type>M</type>
         <magic />
-		<value>2gp</value>
+		<value>2</value>
 		<weight>3</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>S</dmgType>
@@ -19415,7 +19415,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Woodcarver's Tools</name>
 		<type>G</type>
         <magic />
-		<value>1gp</value>
+		<value>1</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -19425,7 +19425,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Wooden Staff</name>
 		<type>G</type>
         <magic />
-		<value>5gp</value>
+		<value>5</value>
 		<weight>4</weight>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
@@ -19457,7 +19457,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Wyvern Poison (Injury)</name>
 		<type>G</type>
         <magic />
-		<value>1200gp</value>
+		<value>1200</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -19468,7 +19468,7 @@ items to be within 5 feet of each other. At the end, the pennant is destroyed, a
 		<name>Yew Wand</name>
 		<type>G</type>
         <magic />
-		<value>10gp</value>
+		<value>10</value>
 		<weight>1</weight>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
