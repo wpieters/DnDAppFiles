@@ -15928,18 +15928,19 @@
 	<monster>
 		<name>Guard Drake</name>
 		<size>M</size>
-		<type>dragon, Volo's Guide, Volo's Guide</type>
+		<type>dragon, tyranny of dragons</type>
 		<alignment>unaligned</alignment>
 		<ac>14 (natural armor)</ac>
 		<hp>52 (7d8+21)</hp>
 		<speed>30 ft.</speed>
-		<str>16</str><dex>11</dex><con>16</con><int>4</int><wis>10</wis><cha>7</cha>
-		<save />
+		<str>16</str>
+		<dex>11</dex>
+		<con>16</con>
+		<int>4</int>
+		<wis>10</wis>
+		<cha>7</cha>
 		<skill>Perception +2</skill>
-		<resist />
-		<vulnerable />
-		<immune />
-		<conditionImmune />
+		<resist>lightning</resist>
 		<senses>darkvision 60 ft.</senses>
 		<passive>12</passive>
 		<languages>understands Draconic but can't speak it</languages>
@@ -15950,15 +15951,14 @@
 		</action>
 		<action>
 			<name>Bite</name>
-			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.</text>
+			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</text>
 			<attack>Bite|5|1d8+3</attack>
 		</action>
 		<action>
 			<name>Tail</name>
-			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.</text>
 			<attack>Tail|5|1d6+3</attack>
 		</action>
-		<spells />
 	</monster>
 	<monster>
 		<name>Guardian Naga</name>

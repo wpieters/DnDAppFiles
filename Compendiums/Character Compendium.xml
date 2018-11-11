@@ -10362,17 +10362,6 @@
 				<text>Some rangers seek to master weapons to better protect civilization from the terrors of the wilderness. Members of the Hunter Conclave learn specialized fighting techniques for use against the most dire threats, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
 			</feature>
 			<feature optional="YES">
-				<name>Deep Stalker Conclave: Deep Stalker Magic</name>
-				<text>At 3rd level, you gain darkvision out to a range of 90 feet. If you already have darkvision, you increase its range by 30 feet.</text>
-				<text>	You also gain access to additional spells at 3rd, 5th, 9th, 13th, and 15th level. Once you gain a deep stalker spell, it counts as a ranger spell for you but doesn't count against the number of ranger spells you know.</text>
-				<text />
-				<text>3rd-disguise self</text>
-				<text>5th-rope trick</text>
-				<text>9th-glyph of warding</text>
-				<text>13th-greater invisibility</text>
-				<text>17th-seeming</text>
-			</feature>
-			<feature optional="YES">
 				<name>Hunter Conclave: Hunter's Prey</name>
 				<text>At 3rd level, you gain one of the following features of your choice: Colossus Slayer, Giant Killer, or Horde Breaker.</text>
 			</feature>
@@ -10387,41 +10376,6 @@
 			<feature optional="YES">
 				<name>Hunter's Prey: Horde Breaker</name>
 				<text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Ranger Conclave: Deep Stalker Conclave</name>
-				<text>Most folk descend into the depths of the Underdark only under the most pressing conditions, undertaking some desperate quest or following the promise of vast riches. All too often, evil festers beneath the earth unnoticed, and rangers of the Deep Stalker Conclave strive to uncover and defeat such threats before they can reach the surface.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Ranger, Revised, p. 6</text>
-			</feature>
-			<feature optional="YES">
-				<name>Deep Stalker Conclave: Underdark Scout</name>
-				<text>At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed, and if you use the Attack action, you can make one additional attack. </text>
-				<text>	You are also adept at evading creatures that rely on darkvision. Such creatures gain no benefit when attempting to detect you in dark and dim conditions. Additionally, when the DM determines if you can hide from a creature, that creature gains no benefit from its darkvision.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Ranger Conclave: Horizon Walker</name>
-				<text>Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Planar Magic</name>
-				<text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know. </text>
-				<text />
-				<text>3rd-protection from evil and good </text>
-				<text>5th-alter self </text>
-				<text>9th-protection from energy </text>
-				<text>13th-banishment </text>
-				<text>17th-teleportation circle</text>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Planar Warrior</name>
-				<text>At 3rd level, you learn to draw on the energy of the planes to augment your attacks. As a bonus action, choose one creature you can see within 30 feet of you. Until the end of this turn, your attacks against that creature ignore its damage resistances, and the next time you hit it on this turn, it takes an additional 1d6 force damage.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Portal Lore</name>
-				<text>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn't reveal them. </text>
-				<text>	Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher. </text>
-				<text>	See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
 			</feature>
 			<feature optional="YES">
 				<name>Ranger Conclave: Primeval Guardian</name>
@@ -10473,14 +10427,6 @@
 				<text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
 			</feature>
 			<feature optional="YES">
-				<name>Deep Stalker Conclave: Extra Attack</name>
-				<text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Extra Attack</name>
-				<text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
-			</feature>
-			<feature optional="YES">
 				<name>Primeval Guardian: Extra Attack</name>
 				<text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
 			</feature>
@@ -10512,15 +10458,6 @@
 			<feature optional="YES">
 				<name>Defensive Tactics: Steel Will</name>
 				<text>You have advantage on saving throws against being frightened.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Deep Stalker Conclave: Iron Mind</name>
-				<text>At 7th level, you gain proficiency in Wisdom saving throws.</text>
-				<proficiency>Wisdom</proficiency>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Ethereal Step</name>
-				<text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
 			</feature>
 			<feature optional="YES">
 				<name>Primeval Guardian: Ancient Fortitude</name>
@@ -10564,15 +10501,6 @@
 				<text>You can use your action to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target.</text>
 			</feature>
 			<feature optional="YES">
-				<name>Deep Stalker Conclave: Stalker's Flurry</name>
-				<text>Starting at 11th level, once on each of your turns when you miss with an attack, you can make another attack.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Distant Strike</name>
-				<text>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation. </text>
-				<text>	If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
-			</feature>
-			<feature optional="YES">
 				<name>Primeval Guardian: Rooted Defense</name>
 				<text>At 11th level, you gain the ability to twist and turn the ground beneath you. While you are in your guardian form, the ground within 30 feet of you is difficult terrain for your enemies.</text>
 			</feature>
@@ -10612,14 +10540,6 @@
 				<text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
 			</feature>
 			<feature optional="YES">
-				<name>Deep Stalker Conclave: Stalker's Dodge</name>
-				<text>At 15th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Horizon Walker: Spectral Defense</name>
-				<text>At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm.</text>
-			</feature>
-			<feature optional="YES">
 				<name>Primeval Guardian: Guardian Aura</name>
 				<text>Starting at 15th level, your guardian form emanates a magical aura that fortifies your injured allies. When any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.</text>
 			</feature>
@@ -10649,6 +10569,147 @@
 			<feature>
 				<name>Foe Slayer</name>
 				<text>At 20th level, you become an unparalleled hunter. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</text>
+			</feature>
+		</autolevel>
+
+		
+		<autolevel level="3">
+			<feature optional="YES">
+				<name>Ranger Archetype: Gloom Stalker (XGE)</name>
+				<text>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place Where evil lurks in the shadows.</text>
+				<text />
+				<text>Source: Xanathar's Guide to Everything, p. 41</text>
+			</feature>
+			<feature optional="YES">
+				<name>Gloom Stalker (XGE): Gloom Stalker Magic</name>
+				<text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+				<text />
+				<text>3rd - disguise self</text>
+				<text />
+				<text>5th - rope trick</text>
+				<text />
+				<text>9th - fear</text>
+				<text />
+				<text>13th - greater invisibility</text>
+				<text />
+				<text>17th - seeming</text>
+			</feature>
+			<feature optional="YES">
+				<name>Gloom Stalker (XGE): Dread Ambusher</name>
+				<text>At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.</text>
+				<text>  At the start of your first turn Of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapons damage type.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Gloom Stalker (XGE): Umbral Sight</name>
+				<text>At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.</text>
+				<text>  You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Ranger Archetype: Horizon Walker (XGE)</name>
+				<text>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</text>
+				<text />
+				<text>Source: Xanathar's Guide to Everything, p. 42</text>
+			</feature>
+			<feature optional="YES">
+				<name>Horizon Walker (XGE): Horizon Walker Magic</name>
+				<text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.</text>
+				<text />
+				<text>3rd - protection from evil and good</text>
+				<text />
+				<text>5th - misty step</text>
+				<text />
+				<text>9th - haste</text>
+				<text />
+				<text>13th - banishment</text>
+				<text />
+				<text>17th - teleportation circle</text>
+			</feature>
+			<feature optional="YES">
+				<name>Horizon Walker (XGE): Detect Portal</name>
+				<text>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.</text>
+				<text>  Once you use this feature, you can’t use it again until you finish a short or long rest.</text>
+				<text>  See the “Planar Travel” section in chapter 2 of the Dungeon Master’s Guide for examples of planar portals.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Horizon Walker (XGE): Planar Warrior</name>
+				<text>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.</text>
+				<text>  As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Ranger Archetype: Monster Slayer (XGE)</name>
+				<text>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, Slayers are experts at unearthing and defeating mighty, mystical foes.</text>
+				<text />
+				<text>Source: Xanathar's Guide to Everything, p. 43</text>
+			</feature>
+			<feature optional="YES">
+				<name>Monster Slayer (XGE): Monster Slayer Magic</name>
+				<text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Monster Slayer Spells table. The spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.</text>
+				<text />
+				<text>3rd - protection from evil and good</text>
+				<text />
+				<text>5th - zone of truth</text>
+				<text />
+				<text>9th - magic circle</text>
+				<text />
+				<text>13th - banishment</text>
+				<text />
+				<text>17th - hold monster</text>
+			</feature>
+			<feature optional="YES">
+				<name>Monster Slayer (XGE): Hunter's Sense</name>
+				<text>At 3rd level, you gain the ability to peer at a creature and magically discern how best to hurt it. As an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and What they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.</text>
+				<text>  You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Monster Slayer (XGE): Slayer's Prey</name>
+				<text>Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.</text>
+				<text>  This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.</text>
+			</feature>            
+		</autolevel>
+		<autolevel level="7">
+			<feature optional="YES">
+				<name>Gloom Stalker (XGE): Iron Mind</name>
+				<text>By 7th level, you have honed your ability to resist the mind—altering powers of your prey. You gain proficiency in Wisdom saving throws. Ifyou already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).</text>
+				<proficiency>Wisdom</proficiency>
+			</feature>
+			<feature optional="YES">
+				<name>Horizon Walker (XGE): Ethereal Step</name>
+				<text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the etherealness spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.</text>
+				<text>  Once you use this feature, you can’t use it again until you finish a short or long rest.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Monster Slayer (XGE): Supernatural Defense</name>
+				<text>At 7th level, you gain extra resilience against your prey’s assaults on your mind and body. Whenever the target of your Slayer’s Prey forces you to make a saving throw and whenever you make an ability check to escape that targets grapple, add 1d6 to your roll.</text>                
+			</feature>
+		</autolevel>
+		<autolevel level="11">
+			<feature optional="YES">
+				<name>Gloom Stalker (XGE): Stalker's Flurry</name>
+				<text>At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Horizon Walker (XGE): Distint Strike</name>
+				<text>At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.</text>
+				<text>  If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Monster Slayer (XGE): Magic-User's Nemesis</name>
+				<text>At 11th level, you gain the ability to thwart someone else’s magic. When you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.</text>
+				<text>  Once you use this feature, you can’t use it again until you finish a short or long rest.</text>                
+			</feature>
+		</autolevel>
+		<autolevel level="15">
+			<feature optional="YES">
+				<name>Gloom Stalker (XGE): Shadowy Dodge</name>
+				<text>Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn’t have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Horizon Walker (XGE): Spectral Defense</name>
+				<text>At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack’s damage on this turn.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Monster Slayer (XGE): Slayer's Counter</name>
+				<text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer’s Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack’s normal effects.</text>        
 			</feature>
 		</autolevel>
 	</class>
